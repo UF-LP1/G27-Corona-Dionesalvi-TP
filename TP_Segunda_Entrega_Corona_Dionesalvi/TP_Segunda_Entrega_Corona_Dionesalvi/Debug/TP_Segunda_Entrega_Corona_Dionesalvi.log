@@ -1,0 +1,287 @@
+﻿  cCajero.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(12,37): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(31,28): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(27,32): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(54,31): error C2061: syntax error: identifier 'cCajero'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(58,44): error C2248: 'cCliente::~cCliente': cannot access protected member declared in class 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61): message : see declaration of 'cCliente::~cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(21): message : see declaration of 'cCliente'
+  cCarrito.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(52,22): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(31,28): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(32,18): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(37,24): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,197): error C2061: syntax error: identifier 'cCarrito'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(55,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(55,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(55,26): error C2238: unexpected token(s) preceding ';'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(73,14): error C3646: 'carro': unknown override specifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(73,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.cpp(28,77): error C2248: 'cCliente::~cCliente': cannot access protected member declared in class 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61): message : see declaration of 'cCliente::~cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(21): message : see declaration of 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.cpp(33,12): error C2065: 'lista_productosllevados': undeclared identifier
+  cCliente.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(52,22): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(31,28): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(27,32): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(32,18): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(37,24): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.cpp(24,219): error C2248: 'cCarrito::~cCarrito': cannot access protected member declared in class 'cCarrito'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(32): message : see declaration of 'cCarrito::~cCarrito'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(14): message : see declaration of 'cCarrito'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.cpp(24,219): error C2512: 'cCarrito': no appropriate default constructor available
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(14,7): message : see declaration of 'cCarrito'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.cpp(70,48): error C2248: 'cCajero::~cCajero': cannot access protected member declared in class 'cCajero'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(40): message : see declaration of 'cCajero::~cCajero'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20): message : see declaration of 'cCajero'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.cpp(78,23): error C2248: 'cCarrito::~cCarrito': cannot access protected member declared in class 'cCarrito'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(32): message : see declaration of 'cCarrito::~cCarrito'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(14): message : see declaration of 'cCarrito'
+  cEmpleado.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(12,37): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(31,28): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(27,32): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,34): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(32,18): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(37,24): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.cpp(91,50): error C2248: 'cFarmacia::~cFarmacia': cannot access protected member declared in class 'cFarmacia'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(48): message : see declaration of 'cFarmacia::~cFarmacia'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(19): message : see declaration of 'cFarmacia'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.cpp(99,47): error C2248: 'cCliente::~cCliente': cannot access protected member declared in class 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61): message : see declaration of 'cCliente::~cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(21): message : see declaration of 'cCliente'
+  cFarmaceutico.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(12,37): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(31,28): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(27,32): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,34): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(32,18): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(37,24): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.cpp(38,54): error C2248: 'cCliente::~cCliente': cannot access protected member declared in class 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61): message : see declaration of 'cCliente::~cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(21): message : see declaration of 'cCliente'
+  cFarmacia.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(25,158): error C2512: 'std::list': no appropriate default constructor available
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754,1): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(40,17): error C2084: function 'void cFarmacia::set_fondos(double)' already has a body
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(36): message : see previous definition of 'set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(49,1): error C2632: 'double' followed by 'int' is illegal
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(49,48): error C2556: 'double cFarmacia::asignaturno(int)': overloaded function differs only by return type from 'int cFarmacia::asignaturno(int)'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(45): message : see declaration of 'cFarmacia::asignaturno'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(49,16): error C2371: 'cFarmacia::asignaturno': redefinition; different basic types
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(45): message : see declaration of 'cFarmacia::asignaturno'
+  cGolosinas.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(27,9): error C2248: 'cProductos::precio': cannot access private member declared in class 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(31): message : see declaration of 'cProductos::precio'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(11): message : see declaration of 'cProductos'
+  cLimpieza.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(12,37): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(31,28): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(27,32): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,34): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(32,18): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(37,24): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cLimpieza.cpp(32,50): error C2248: 'cCliente::~cCliente': cannot access protected member declared in class 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61): message : see declaration of 'cCliente::~cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(21): message : see declaration of 'cCliente'
+  cMedicamentos.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(27,9): error C2248: 'cProductos::precio': cannot access private member declared in class 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(31): message : see declaration of 'cProductos::precio'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(11): message : see declaration of 'cProductos'
+  cMostrador.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(27,32): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,34): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(32,18): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(37,24): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(50,25): error C2061: syntax error: identifier 'cMostrador'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.cpp(45,51): error C2248: 'cCliente::~cCliente': cannot access protected member declared in class 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61): message : see declaration of 'cCliente::~cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(21): message : see declaration of 'cCliente'
+  cOrtopedista.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(12,37): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(31,28): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(27,32): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,34): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(32,18): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(37,24): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.cpp(31,53): error C2248: 'cCliente::~cCliente': cannot access protected member declared in class 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61): message : see declaration of 'cCliente::~cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(21): message : see declaration of 'cCliente'
+  cPerfumeros.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(12,37): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(31,28): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(27,32): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,34): error C2504: 'cEmpleado': base class undefined
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(32,18): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(37,24): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cPerfumeros.cpp(31,52): error C2248: 'cCliente::~cCliente': cannot access protected member declared in class 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61): message : see declaration of 'cCliente::~cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(21): message : see declaration of 'cCliente'
+  cProductos.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+  cProductos_Ortopedia.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(45,9): error C2248: 'cProductos::precio': cannot access private member declared in class 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(31): message : see declaration of 'cProductos::precio'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(11): message : see declaration of 'cProductos'
+  cProductos_Perfumeria.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(22,142): error C2969: syntax error: ';': expected member function definition to end with '}'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(17,46): error C2275: 'std::string': expected an expression instead of a type
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(17,53): error C2146: syntax error: missing ')' before identifier 'fecha_venc'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(17,131): error C2630: ';' found in what should be a comma-separated list
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(17,131): error C2612: trailing ':' illegal in base/member initializer list
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(62,1): fatal  error C1004: unexpected end-of-file found
+  TP_Segunda_Entrega_Corona_Dionesalvi.cpp
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,151): error C2061: syntax error: identifier 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,46): error C2535: 'void cFarmacia::set_fondos(double)': member function already defined or declared
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : see declaration of 'cFarmacia::set_fondos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,10): error C2065: 'cProductos': undeclared identifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2923: 'std::list': 'cProductos' is not a valid template type argument for parameter '_Ty'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57): message : see declaration of 'cProductos'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(57,5): error C2976: 'std::list': too few template arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : see declaration of 'std::list'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(52,22): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(31,28): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(32,18): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(37,24): error C2061: syntax error: identifier 'cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,197): error C2061: syntax error: identifier 'cCarrito'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(55,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(55,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(55,26): error C2238: unexpected token(s) preceding ';'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(73,14): error C3646: 'carro': unknown override specifier
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(73,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi.cpp(11,109): error C2665: 'cProductos_Ortopedia::cProductos_Ortopedia': none of the 2 overloads could convert all the argument types
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.h(21,5): message : could be 'cProductos_Ortopedia::cProductos_Ortopedia(std::string,eProdOrt,std::string,float,int)'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi.cpp(11,72): message : 'cProductos_Ortopedia::cProductos_Ortopedia(std::string,eProdOrt,std::string,float,int)': cannot convert argument 3 from 'int' to 'std::string'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi.cpp(11,109): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.h(21,5): message : see declaration of 'cProductos_Ortopedia::cProductos_Ortopedia'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi.cpp(11,109): message : while trying to match the argument list '(const char [5], eProdOrt, int, int, int)'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi.cpp(18,146): error C2665: 'cCliente::cCliente': none of the 2 overloads could convert all the argument types
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,5): message : could be 'cCliente::cCliente(std::string,std::string,std::string,std::string,std::string,std::string,eFormadepago,std::string,std::string,float)'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi.cpp(18,37): message : 'cCliente::cCliente(std::string,std::string,std::string,std::string,std::string,std::string,eFormadepago,std::string,std::string,float)': cannot convert argument 7 from 'const char [7]' to 'eFormadepago'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi.cpp(18,111): message : There is no context in which this conversion is possible
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,5): message : see declaration of 'cCliente::cCliente'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi.cpp(18,146): message : while trying to match the argument list '(const char [9], const char [10], const char [9], const char [15], const char [8], const char [5], const char [7], const char [3], const char [11], int)'
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi.cpp(20,180): error C2661: 'cFarmacia::cFarmacia': no overloaded function takes 8 arguments
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi.cpp(22,51): error C2660: 'cCajero::cobrar': function does not take 2 arguments
+C:\Users\isadi\Downloads\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(32,11): message : see declaration of 'cCajero::cobrar'
+  Generating Code...
