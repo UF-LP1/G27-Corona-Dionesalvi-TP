@@ -21,7 +21,7 @@
    * @param string receta
    * @param string lista_productos
    */
-cCliente::cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, string OS, eFormadepago formadepago, string receta, string lista_productos_requeridos, float billetera, cCarrito carro) {
+cCliente::cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, string OS, eFormadepago formadepago, string receta, string lista_productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad) {
 
 }
 
@@ -45,9 +45,14 @@ const string cCliente::get_DNI() {
 string cCliente::get_formatoticket() {
     return this->formatoticket;
 }
-void cCliente::set_billetera(float nuevo_monto) {
-    this->billetera += nuevo_monto;
+void cCliente::restar_saldo_billetera(float nuevo_monto) {
+    this->billetera -= nuevo_monto;
 }
+eOS cCliente:: get_OS() {
+    return this->OS;
+}
+
+
 
 
 /**
@@ -71,6 +76,7 @@ void cCliente::recibir_bolsacompras(cCajero n) {
     return;
 }
 void agregar_lista_productos_requeridos();
+
 cCarrito* cCliente::get_carro() {
     return &this->carro;
 }

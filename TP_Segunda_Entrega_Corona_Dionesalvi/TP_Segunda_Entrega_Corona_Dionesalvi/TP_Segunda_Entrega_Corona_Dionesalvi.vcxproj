@@ -142,7 +142,7 @@
     <ClCompile Include="cProductos.cpp" />
     <ClCompile Include="cProductos_Ortopedia.cpp" />
     <ClCompile Include="cProductos_Perfumeria.cpp" />
-    <ClCompile Include="TP_Segunda_Entrega_Corona_Dionesalvi.cpp" />
+    <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cCajero.h" />
@@ -168,6 +168,8 @@
     <ClInclude Include="eProdCosmyPerf.h" />
     <ClInclude Include="eProdOrt.h" />
     <ClInclude Include="eProdPerf.h" />
+    <ClInclude Include="eOS.h" />
+    <ClInclude Include="eDescuentos.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

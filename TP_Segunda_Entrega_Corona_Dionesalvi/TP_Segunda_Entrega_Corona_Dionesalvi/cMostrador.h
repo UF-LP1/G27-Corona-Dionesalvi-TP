@@ -7,6 +7,8 @@
 #define _CMOSTRADOR_H
 
 #include "cEmpleado.h"
+#include "eDescuentos.h"
+#include "cCliente.h"
 
 
 class cMostrador : public cEmpleado {
@@ -16,13 +18,13 @@ public:
      * @param string diadedescuento
      */
 
-    cMostrador(string diadedescuento);
+    cMostrador( eDescuentos descuento);
 
     void expender_recetas();
 
-    void ticket_saldopagar();
+    void ticket_saldopagar(cCliente *n);
 
-    void aplicar_descuento();
+    float aplicar_descuento(cCliente *n);
 
     /**
      * @param cCliente info
@@ -36,7 +38,7 @@ protected:
 
 
 private:
-    string diadedescuento;
+    eDescuentos descuento;
 };
 
 #endif //_CMOSTRADOR_H

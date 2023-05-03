@@ -37,16 +37,11 @@ void cCajero::entregar_bolsa() {
 /**
  * @return void
  */
-float cCajero::cobrar(cCliente* n, cFarmacia* k) { //FUNCION OBLIGATORIA
-    float monto_total = 0;
-    list<cProductos> aux = n->get_carro()->get_lista_productosllevados(); //guardo informacion en n
+float cCajero::cobrar(cCliente* n, cFarmacia* k, cMostrador *j) { //FUNCION OBLIGATORIA
+    float monto_total = j->aplicar_descuento(n); //monto total es el valor que devuelve mi metodo aplicar dto 
 
-    for (list<cProductos>::iterator it_ = aux.begin(); it_ != aux.end(); it_++) {  //bucle hasta el final de la lista 
-        //for (cProductos MiProducto: n->get_carro()->get_lista_productosllevados()) { --> OTRA ALTERNATIVA
-        monto_total += it_->get_precio();   //acumulamos el monto total 
-    }
-    n->set_billetera(-monto_total);                 //le descontamos al cliente de su billetera lo que pago 
-    k->set_fondos(+monto_total);                      // le sumamos lo que pago el cliente a los fondos de la farmacia 
+    n->restar_saldo_billetera(monto_total);                 //le descontamos al cliente de su billetera lo que pago 
+    k->sumar_fondos(monto_total);                      // le sumamos lo que pago el cliente a los fondos de la farmacia 
 
     return monto_total;                 //retornamos el monto total por pedido de la consigna 
 }

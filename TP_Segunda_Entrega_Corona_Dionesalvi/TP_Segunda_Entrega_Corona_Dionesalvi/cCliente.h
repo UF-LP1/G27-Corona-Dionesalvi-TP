@@ -8,6 +8,7 @@
 
 
 #include "eFormadepago.h"
+#include "eOS.h"
 #include "cMostrador.h"
 #include "cCajero.h"
 #include "cCarrito.h"
@@ -32,14 +33,15 @@ public:
      * @param string receta
      * @param string lista_productos
      */
-    cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, string OS, eFormadepago formadepago, string receta, string lista_productos_requeridos, float billetera, cCarrito carro);
+    cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, string OS, eFormadepago formadepago, string receta, string lista_productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad);
 
     string get_mail();
 
     const string get_DNI();
 
-    void set_billetera(float nuevo_monto);
+    void restar_saldo_billetera(float nuevo_monto);
 
+    eOS get_OS();
 
     string get_formatoticket();
 
@@ -65,12 +67,13 @@ private:
     const string DNI;
     string mail;
     string formatoticket;
-    string OS;
+    eOS OS;
     eFormadepago formadepago;
     string receta;
-    initializer_list<string> lista_productos_requeridos;
+    list<string> lista_productos_requeridos;
     float billetera;
     cCarrito carro;
+    eListaNecesidad necesidad;
 };
 
 #endif //_CCLIENTE_H

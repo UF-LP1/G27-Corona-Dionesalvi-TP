@@ -29,7 +29,7 @@ public:
 
     void entregar_bolsa();
 
-    float cobrar(cCliente* n, cFarmacia* k);
+    float cobrar(cCliente* n, cFarmacia* k, cMostrador*j);
 
     /**
      * @param cCliente info

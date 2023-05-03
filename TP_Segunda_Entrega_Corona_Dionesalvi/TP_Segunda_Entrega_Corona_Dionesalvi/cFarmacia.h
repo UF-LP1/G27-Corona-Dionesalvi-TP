@@ -10,6 +10,7 @@
 #include "iostream"
 #include "string.h"
 #include "eListaNecesidad.h"
+#include "cProductos.h"
 #include <vector>
 #include <list>
 
@@ -36,8 +37,7 @@ public:
      * @param nuevo_horario
      */
     void set_horario(string nuevo_horario);
-    void set_fondos(double fondo_actualizado);
-    void set_fondos(double fondo_actualizado);
+    void sumar_fondos(double fondo_actualizado);
 
     /**
      * @param turno_asignado
