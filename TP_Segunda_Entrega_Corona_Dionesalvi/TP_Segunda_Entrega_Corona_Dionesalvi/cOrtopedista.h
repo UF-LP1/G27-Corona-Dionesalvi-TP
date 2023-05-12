@@ -7,7 +7,7 @@
 #define _CORTOPEDISTA_H
 
 #include "cEmpleado.h"
-
+#include "vector"
 
 
 class cOrtopedista : public cEmpleado {
@@ -16,7 +16,7 @@ public:
     /**
      * @param string parte_del_cuerpo
      */
-    cOrtopedista(string parte_del_cuerpo, string nombre, string apellido, string DNI);
+    cOrtopedista(string parte_del_cuerpo, string nombre, string apellido, string DNI, cProductos lista_productosORT);
 
     void consejo_articulosORT();
 
@@ -32,6 +32,7 @@ protected:
 
 private:
     string parte_del_cuerpo;
+    list<cProductos> lista_productosORT;
 };
 
 #endif //_CORTOPEDISTA_H

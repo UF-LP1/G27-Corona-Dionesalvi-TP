@@ -31,6 +31,8 @@ void cCajero::entrega_ticket() {
  * @return void
  */
 void cCajero::entregar_bolsa() {
+
+     int i = rand();
     return;
 }
 

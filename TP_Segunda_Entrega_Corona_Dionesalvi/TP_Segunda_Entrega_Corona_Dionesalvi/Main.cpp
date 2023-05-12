@@ -25,6 +25,9 @@ int main()
 
     mostrador->ticket_saldopagar(cliente);
     
+    delete(cliente);
+    delete(cajero);
+    delete(mostrador);
 
     return 0;
 }

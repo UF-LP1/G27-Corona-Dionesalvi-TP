@@ -29,3 +29,12 @@ string cProductos::get_ID() {
 cProductos::~cProductos() {
 
 }
+void cProductos :: agregarimpuesto(){} 
+
+virtual int consultar_stock(int cant_stock_necesario) {
+
+}
+virtual int actualizar_precio(int nuevo_precio) {
+
+}
+

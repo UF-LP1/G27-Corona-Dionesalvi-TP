@@ -8,6 +8,6 @@
 
 
 
-enum eListaNecesidad { farmacia_OS, perfumeria, ortopedia, farmacia_part, PAMI };
+enum eListaNecesidad { farmacia, perfumeria, ortopedia}
 
 #endif //_ELISTANECESIDAD_H

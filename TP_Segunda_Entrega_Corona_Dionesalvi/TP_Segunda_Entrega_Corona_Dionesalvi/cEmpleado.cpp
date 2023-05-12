@@ -4,6 +4,7 @@
 
 
 #include "cEmpleado.h"
+#include "cCliente.h"
 
  /**
   * cEmpleado implementation
@@ -73,9 +74,7 @@ void cEmpleado::asesoraortopedia() {
 /**
  * @return void
  */
-void cEmpleado::empacarproducto() {
-    return;
-}
+
 
 /**
  * @return void
@@ -91,14 +90,15 @@ void cEmpleado::generarticket() {
 void cEmpleado::infoFarmacia(cFarmacia farmacia) {
     return;
 }
+virtual void recibir_cliente(cCliente *n) {
+
+}
+
 
 /**
  * @param cCliente cliente
  * @return void
  */
-void cEmpleado::infoCliente(cCliente cliente) {
-    return;
-}
 
 cEmpleado::~cEmpleado() {
 

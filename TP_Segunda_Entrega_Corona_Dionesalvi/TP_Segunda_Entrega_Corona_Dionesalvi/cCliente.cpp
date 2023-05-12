@@ -51,6 +51,11 @@ void cCliente::restar_saldo_billetera(float nuevo_monto) {
 eOS cCliente:: get_OS() {
     return this->OS;
 }
+eListaNecesidad cCliente::get_necesidad() {
+
+    return this->necesidad;
+
+}
 
 
 

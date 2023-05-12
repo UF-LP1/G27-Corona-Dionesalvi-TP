@@ -44,6 +44,8 @@ public:
     eOS get_OS();
 
     string get_formatoticket();
+    eListaNecesidad get_necesidad();
+
 
 
     /**
@@ -74,6 +76,7 @@ private:
     float billetera;
     cCarrito carro;
     eListaNecesidad necesidad;
+   
 };
 
 #endif //_CCLIENTE_H

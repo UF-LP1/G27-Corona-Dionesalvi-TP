@@ -37,9 +37,9 @@ public:
 
     void asesoraortopedia();
 
-    void empacarproducto();
-
     void generarticket();
+
+    virtual void recibir_cliente();
 
     /**
      * @param cFarmacia farmacia

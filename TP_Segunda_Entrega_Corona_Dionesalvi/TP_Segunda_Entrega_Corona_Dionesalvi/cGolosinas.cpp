@@ -38,3 +38,8 @@ unsigned int cGolosinas::consultar_stock3(unsigned int cant_stock_necesario3) {
 cGolosinas::~cGolosinas() {
 
 }
+
+void cGolosinas::agregarimpuesto()
+{
+    
+}
