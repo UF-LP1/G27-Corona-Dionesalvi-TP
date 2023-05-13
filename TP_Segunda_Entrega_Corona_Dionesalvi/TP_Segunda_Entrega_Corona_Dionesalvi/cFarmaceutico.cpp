@@ -20,13 +20,8 @@ cFarmaceutico::cFarmaceutico(string matricula) : cEmpleado(nombre, apellido, DNI
 /**
  * @return void
  */
-void cFarmaceutico::consejo_dosificar() {
-    return;
-}
 
-/**
- * @return void
- */
+
 void cFarmaceutico::recomendacion_med() {
     return;
 }

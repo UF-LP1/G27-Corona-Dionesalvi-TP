@@ -23,8 +23,8 @@ public:
     virtual void agregarimpuesto(); //1nuevo metodo para el virtual
     void set_precio(float nuevo_precio);
     float get_precio();
-    virtual int consultar_stock();
-    virtual int actualizar_precio();
+    virtual int consultar_stock(int cant_stock_necesario);
+    virtual int actualizar_precio(int nuevo_precio);
     string get_ID();
 
 

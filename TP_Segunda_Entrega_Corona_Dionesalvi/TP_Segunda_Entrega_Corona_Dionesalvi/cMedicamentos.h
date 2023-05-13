@@ -22,9 +22,9 @@ public:
     /**
      * @param nuevo_precio_medicamento
      */
-    void set_precio_medicamento(float nuevo_precio_medicamento);
+    void set_precio_medicamento();
 
-    bool tipo_medicamento();
+    bool tipo_medicamento(float nuevo_precio_medicamento);
 
     /**
      * @param cant_stock_necesario2

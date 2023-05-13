@@ -19,7 +19,6 @@ public:
      */
     cFarmaceutico(string matricula);
 
-    void consejo_dosificar();
 
     void recomendacion_med();
 

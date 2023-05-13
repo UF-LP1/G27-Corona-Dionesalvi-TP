@@ -30,7 +30,7 @@ void cCarrito::seleccionar_productos(cCliente cliente, cProductos producto) {
 }
 
 list<cProductos> get_lista_productosllevados() {
-    return lista_productosllevados;
+    return get_lista_productosllevados();
 }
 
 cCarrito::~cCarrito() {

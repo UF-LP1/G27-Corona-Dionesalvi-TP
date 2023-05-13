@@ -20,8 +20,6 @@ public:
 
     cMostrador( eDescuentos descuento);
 
-    void expender_recetas();
-
     void ticket_saldopagar(cCliente *n);
 
     float aplicar_descuento(cCliente *n);

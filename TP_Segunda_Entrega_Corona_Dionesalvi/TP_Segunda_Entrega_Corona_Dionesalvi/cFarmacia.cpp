@@ -51,9 +51,11 @@ bool cFarmacia::derivar_cliente(cCliente *n) {
        
 
         for (list<cEmpleado>::iterator it_ = lista_empleado.begin(); it_ !=lista_empleado.end(); it_++) {  //bucle hasta el final de la lista 
-            cOrtopedista* aux = nullptr;
+            cEmpleado* aux = nullptr;
             aux=dynamic_cast<cOrtopedista*>(lista_empleado);
-            if()
+            if (aux != nullptr) {
+                aux->recibir_cliente(n);
+            }
         }
     case 2: a == perfumeria;
 

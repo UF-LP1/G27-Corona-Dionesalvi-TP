@@ -39,7 +39,7 @@ public:
 
     void generarticket();
 
-    virtual void recibir_cliente();
+    virtual void recibir_cliente(cCliente* n);
 
     /**
      * @param cFarmacia farmacia

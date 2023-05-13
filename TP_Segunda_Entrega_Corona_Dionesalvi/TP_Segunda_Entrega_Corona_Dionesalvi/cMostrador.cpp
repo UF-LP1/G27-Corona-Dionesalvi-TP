@@ -20,13 +20,8 @@ cMostrador::cMostrador  (eDescuentos descuento) :cEmpleado(nombre, apellido, DNI
 /**
  * @return void
  */
-void cMostrador::expender_recetas() {
-    return;
-}
 
-/**
- * @return void
- */
+
 void cMostrador::ticket_saldopagar(cCliente *n) {
     float a = aplicar_descuento(n);
     cout << a << endl;
