@@ -25,7 +25,17 @@ cCarrito::cCarrito(int cant_productos, string tipo_carrito, list<cProductos> lis
  * @param cProducto producto
  * @return void
  */
-void cCarrito::seleccionar_productos(cCliente cliente, cProductos producto) {
+list<cProductos> cCarrito::seleccionar_productos(cCliente *c, cProductos p) { //tendria que recibir FARMCIA que es quien tiene la lista de productos totales
+    list <cProductos> aux = c -> get_lista_productos_requeridos();
+   
+    
+    for (list<cProductos>::iterator it_ = aux.begin(); it_ != aux.end(); it_++) {  //bucle hasta el final de la lista de los productos que quiere llevarse
+        
+        if (lista_productos_requeridos[i]); //condicion donde veo si el producto requerido existe
+        
+    }
+
+
     return;
 }
 

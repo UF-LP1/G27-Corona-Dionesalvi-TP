@@ -54,9 +54,11 @@ eOS cCliente:: get_OS() {
 eListaNecesidad cCliente::get_necesidad() {
 
     return this->necesidad;
-
 }
 
+cProductos cCliente::get_lista_productos_requeridos() {
+    return this-> lista_productos_requeridos;
+}
 
 
 

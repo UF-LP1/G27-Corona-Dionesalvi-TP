@@ -35,7 +35,7 @@ public:
      * @param int turno
      */
 
-    cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, eListaNecesidad eNecesidad_cliente, int turno, double fondos, cProductos lista_productos, cEmpleado lista_empleado);
+    cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, eListaNecesidad eNecesidad_cliente, int turno, double fondos, list<cProductos> lista_productos, list<cEmpleado> lista_empleado);
 
     /**
      * @param nuevo_horario

@@ -33,7 +33,7 @@ public:
      * @param string receta
      * @param string lista_productos
      */
-    cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, string OS, eFormadepago formadepago, string receta, string lista_productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad);
+    cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, string OS, eFormadepago formadepago, string receta, list<cProductos> lista_productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad);
 
     string get_mail();
 
@@ -44,7 +44,10 @@ public:
     eOS get_OS();
 
     string get_formatoticket();
+
     eListaNecesidad get_necesidad();
+
+    cProductos get_lista_productos_requeridos();
 
 
 
@@ -72,7 +75,7 @@ private:
     eOS OS;
     eFormadepago formadepago;
     string receta;
-    list<string> lista_productos_requeridos;
+    list<cProductos> lista_productos_requeridos;
     float billetera;
     cCarrito carro;
     eListaNecesidad necesidad;

@@ -4,6 +4,7 @@
 
 
 #include "cMostrador.h"
+#include "cCarrito.h"
 
  /**
   * cMostrador implementation
@@ -35,7 +36,7 @@ float cMostrador::aplicar_descuento(cCliente *n) {
     float dto = 0;
     float monto_con_dto = 0;
     float monto_sin_dto = 0;
-    list<cProductos> aux = n->get_carro()->get_lista_productosllevados();
+    list<cProductos> aux = n->get_carro() -> get_lista_productosllevados();
     eOS a = n->get_OS();
     
     for (list<cProductos>::iterator it_ = aux.begin(); it_ != aux.end(); it_++) {  //bucle hasta el final de la lista 

@@ -24,8 +24,9 @@ public:
      * @param cCliente cliente
      * @param cProducto producto
      */
-    void seleccionar_productos(cCliente cliente, cProductos producto);
-    list<cProductos> get_lista_productosllevados();
+    list<cProductos> seleccionar_productos(cCliente *c, cProductos p);
+        
+
 
 protected:
 
@@ -33,7 +34,6 @@ protected:
 private:
     int cant_productos;
     string tipo_de_carrito;
-
     list<cProductos> lista_productosllevados;  // Esta lista es la de los productos que se termina llevando 
 };
 

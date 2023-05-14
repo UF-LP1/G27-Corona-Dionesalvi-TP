@@ -17,24 +17,34 @@
 cProductos::cProductos(string ID, float precio, unsigned int stock) :ID(ID), precio(precio), stock(stock) {
 
 }
-void cProductos::set_precio(float nuevo_precio) {
-	this->precio = nuevo_precio;
-}
+
 float cProductos::get_precio() {
 	return this->precio;
 }
 string cProductos::get_ID() {
 	return this->ID;
 }
+
+unsigned int cProductos::get_stock() {
+	return this->stock;
+}
+
+
+
 cProductos::~cProductos() {
 
 }
 void cProductos :: agregarimpuesto(){} 
 
-virtual int consultar_stock(int cant_stock_necesario) {
+virtual bool consultar_stock(int cant_stock_necesario) {
+	unsigned int n = get_stock();
+	if (cant_stock_necesario <= n)
+		return true;
+	else
+		return false;
 
 }
-virtual int actualizar_precio(int nuevo_precio) {
+virtual bool actualizar_precio(int nuevo_precio) {
 
 }
 
