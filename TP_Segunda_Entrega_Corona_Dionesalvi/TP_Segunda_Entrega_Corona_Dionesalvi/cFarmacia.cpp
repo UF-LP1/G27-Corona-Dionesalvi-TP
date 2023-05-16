@@ -41,26 +41,37 @@ void cFarmacia::sumar_fondos(double fondo_actualizado) {
 }
 bool cFarmacia::derivar_cliente(cCliente *n) {
     eListaNecesidad a = n->get_necesidad();
-
-   // cOrtopedista* ortopedista = new cOrtopedista("tobillo");
-   //cPerfumeros* perfumero = new cPerfumeros("453326");
-   //cFarmaceutico* farmaceutico = new cFarmaceutico("235772");
-    switch (a)
+    switch (a) // deriva al empleado correspondiente segun la necesidad declarada x el cliente
     {
-    case 1: a == ortopedia;
-       
-
+    case ortopedia:
+     
         for (list<cEmpleado>::iterator it_ = lista_empleado.begin(); it_ !=lista_empleado.end(); it_++) {  //bucle hasta el final de la lista 
             cEmpleado* aux = nullptr;
-            aux=dynamic_cast<cOrtopedista*>(lista_empleado);
+            cEmpleado* aux2 = &( * it_); //accedo a un elemento tipo cEmpleado, y con el & accedo a la direc de memoria
+            aux=dynamic_cast<cOrtopedista*>(aux2);
             if (aux != nullptr) {
                 aux->recibir_cliente(n);
             }
         }
-    case 2: a == perfumeria;
+    case perfumeria:
+        for (list<cEmpleado>::iterator it_ = lista_empleado.begin(); it_ != lista_empleado.end(); it_++) {  //bucle hasta el final de la lista 
+            cEmpleado* aux = nullptr;
+            cEmpleado* aux2 = &(*it_);
+            aux = dynamic_cast<cPerfumeros*>(aux2);
+            if (aux != nullptr) {
+                aux->recibir_cliente(n);
+            }
+        }
 
-    case 3: a == farmacia;
-
+    case farmacia:
+        for (list<cEmpleado>::iterator it_ = lista_empleado.begin(); it_ != lista_empleado.end(); it_++) {  //bucle hasta el final de la lista 
+            cEmpleado* aux = nullptr;
+            cEmpleado* aux2 = &(*it_);
+            aux = dynamic_cast<cFarmaceutico*>(aux2);
+            if (aux != nullptr) {
+                aux->recibir_cliente(n);
+            }
+        }
 
     default:
         break;
@@ -68,14 +79,13 @@ bool cFarmacia::derivar_cliente(cCliente *n) {
 
 
 }
+list <cProductos> get_lista_productos() {
 
-/**
-* @param turno_asignado
-* @return int
-*/
-int cFarmacia::asignaturno(int turno_asignado) {
-    return 0;
+    return this-> lista_productos;
+
 }
+
+
 
 cFarmacia::~cFarmacia() {
 

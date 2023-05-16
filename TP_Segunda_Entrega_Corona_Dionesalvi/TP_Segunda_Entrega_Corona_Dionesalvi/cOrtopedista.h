@@ -8,7 +8,9 @@
 
 #include "cEmpleado.h"
 #include "vector"
+#include <iostream>
 
+using namespace std;
 
 class cOrtopedista : public cEmpleado {
 public:

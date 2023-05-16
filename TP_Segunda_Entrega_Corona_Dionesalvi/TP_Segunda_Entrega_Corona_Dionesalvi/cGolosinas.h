@@ -35,8 +35,7 @@ public:
      */
     unsigned int consultar_stock3(unsigned int cant_stock_necesario3);
 
-    ~cGolosinas();
-    void agregarimpuesto();  
+    ~cGolosinas();  
 
 protected:
     string fecha_venc;

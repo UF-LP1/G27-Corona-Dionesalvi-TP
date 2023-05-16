@@ -14,7 +14,7 @@
    * @param string parte_delcuerpo
    * @param eProdOrt tipo_producto
    */
-cProductos_Ortopedia::cProductos_Ortopedia(string parte_delcuerpo, eProdOrt tipo_producto, string ID, float precio, int stock) :cProductos(ID, precio, stock) {
+cProductos_Ortopedia::cProductos_Ortopedia(string parte_delcuerpo, eProdOrt tipo_producto, string ID, float precio, int stock, string nombre) :cProductos(ID, precio, stock, nombre) {
 
 }
 

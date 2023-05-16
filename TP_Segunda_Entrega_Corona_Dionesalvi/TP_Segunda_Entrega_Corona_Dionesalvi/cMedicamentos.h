@@ -17,7 +17,7 @@ public:
      * @param string marca
      * @param int cant_dosis
      */
-    cMedicamentos(string fecha_venc, string marca, int cant_dosis, string ID, float precio, int stock);
+    cMedicamentos(string fecha_venc, string marca, int cant_dosis, string ID, float precio, int stock, string nombre);
 
     /**
      * @param nuevo_precio_medicamento

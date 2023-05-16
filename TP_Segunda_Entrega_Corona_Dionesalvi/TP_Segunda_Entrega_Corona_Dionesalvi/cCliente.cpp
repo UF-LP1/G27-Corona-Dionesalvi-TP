@@ -21,7 +21,7 @@
    * @param string receta
    * @param string lista_productos
    */
-cCliente::cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, string OS, eFormadepago formadepago, string receta, string lista_productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad) {
+cCliente::cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, string OS, eFormadepago formadepago, string receta, list <string> productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad) {
 
 }
 
@@ -56,8 +56,8 @@ eListaNecesidad cCliente::get_necesidad() {
     return this->necesidad;
 }
 
-cProductos cCliente::get_lista_productos_requeridos() {
-    return this-> lista_productos_requeridos;
+list <string> cCliente::get_lista_productos_requeridos() {
+    return this-> productos_requeridos;
 }
 
 

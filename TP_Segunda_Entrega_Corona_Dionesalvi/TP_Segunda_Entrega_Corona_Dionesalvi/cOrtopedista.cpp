@@ -22,10 +22,23 @@ cOrtopedista::cOrtopedista(string parte_del_cuerpo, string nombre, string apelli
  */
 void cOrtopedista::consejo_articulosORT() {
     srand(time(0));
-    int i = 0   + rand()%(3 +1 -0);
+    int i = 0   + rand()%(4)+1;
 
-    cProductos recomendado = lista_productosORT.(i); // .find(i);
-    cout << "tu producto recomendado es :",recomendado;
+
+    switch (i)
+    {
+    case 1: 
+        cout<<"Recomiendo cabestrillo"<<endl;
+    case 2:
+        cout << "Recomiendo muniequeras" << endl;
+    case 3:
+        cout << "Recomiendo medias de compresion" << endl;
+    case 4:
+        cout << "Recomiendo vendas" << endl;
+
+    default:
+        break;
+    }
     
     return;
 }

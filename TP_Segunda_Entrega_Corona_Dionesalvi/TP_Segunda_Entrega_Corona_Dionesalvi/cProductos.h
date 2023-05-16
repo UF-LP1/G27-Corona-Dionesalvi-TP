@@ -16,7 +16,7 @@ public:
      * @param float precio
      */
 
-    cProductos(string ID, float precio, unsigned int stock);
+    cProductos(string ID, float precio, unsigned int stock, string nombre);
 
 
     ~cProductos();
@@ -25,7 +25,9 @@ public:
     virtual bool consultar_stock(int cant_stock_necesario);
     virtual bool actualizar_precio(int nuevo_precio);
     string get_ID();
+    string get_nombre();
     unsigned int get_stock();
+
 
 protected:
 
@@ -34,6 +36,7 @@ private:
     const string ID;
     float precio;
     unsigned int stock;
+    string nombre;
 };
 
 #endif //_CPRODUCTOS_H

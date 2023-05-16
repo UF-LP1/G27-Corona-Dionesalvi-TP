@@ -14,7 +14,7 @@
    * @param string ID
    * @param float precio
    */
-cProductos::cProductos(string ID, float precio, unsigned int stock) :ID(ID), precio(precio), stock(stock) {
+cProductos::cProductos(string ID, float precio, unsigned int stock, string nombre) :ID(ID), precio(precio), stock(stock), nombre(nombre) {
 
 }
 
@@ -28,7 +28,9 @@ string cProductos::get_ID() {
 unsigned int cProductos::get_stock() {
 	return this->stock;
 }
-
+string cProductos::get_nombre() {
+	return this->nombre;
+}
 
 
 cProductos::~cProductos() {

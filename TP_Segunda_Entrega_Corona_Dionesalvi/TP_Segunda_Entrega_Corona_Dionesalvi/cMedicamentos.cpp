@@ -15,7 +15,7 @@
    * @param string marca
    * @param int cant_dosis
    */
-cMedicamentos::cMedicamentos(string fecha_venc, string marca, int cant_dosis, string ID, float precio, int stock) :cProductos(ID, precio, stock) {
+cMedicamentos::cMedicamentos(string fecha_venc, string marca, int cant_dosis, string ID, float precio, int stock, string nombre) :cProductos(ID, precio, stock, nombre) {
 
 }
 

@@ -2,9 +2,9 @@
  * Project Untitled
  */
 
-
+#include "cFarmacia.h"
 #include "cCarrito.h"
-
+#include "cProductos.h"
 
 
  /**
@@ -16,8 +16,8 @@
    * @param int cant_productos
    * @param string tipo_carrito
    */
-cCarrito::cCarrito(int cant_productos, string tipo_carrito, list<cProductos> lista_productosllevados) {
-    this->lista_productosllevados = lista_productosllevados;
+cCarrito::cCarrito(int cant_productos, string tipo_carrito) {
+   
 }
 
 /**
@@ -25,22 +25,25 @@ cCarrito::cCarrito(int cant_productos, string tipo_carrito, list<cProductos> lis
  * @param cProducto producto
  * @return void
  */
-list<cProductos> cCarrito::seleccionar_productos(cCliente *c, cProductos p) { //tendria que recibir FARMCIA que es quien tiene la lista de productos totales
-    list <cProductos> aux = c -> get_lista_productos_requeridos();
+list<string> seleccionar_productos(cCliente *c, cFarmacia* p) { //tendria que recibir FARMCIA que es quien tiene la lista de productos totales
+    list <string> aux = c->get_lista_productos_requeridos();
+    list <cProductos> aux2 = p->get_lista_productos();
+    list <string> lista_productos_llevados;
    
-    
-    for (list<cProductos>::iterator it_ = aux.begin(); it_ != aux.end(); it_++) {  //bucle hasta el final de la lista de los productos que quiere llevarse
-        
-        if (lista_productos_requeridos[i]); //condicion donde veo si el producto requerido existe
+    for (list<cProductos>::iterator it_ = aux2.begin(); it_ != aux2.end(); it_++) {  //bucle hasta el final de la lista de los productos que quiere llevarse
+        for (list<string>::iterator it_2 = aux.begin(); it_2 != aux.end(); it_2++)
+        {
+            if (*it_2 == it_->get_nombre()) //condicion donde veo si el producto requerido existe
+            {
+                lista_productos_llevados.push_front(it_->get_nombre());
+            }
+
+        }
         
     }
 
 
-    return;
-}
-
-list<cProductos> get_lista_productosllevados() {
-    return get_lista_productosllevados();
+    return lista_productos_llevados;
 }
 
 cCarrito::~cCarrito() {

@@ -19,7 +19,7 @@ public:
      * @param string fecha_venc
      * @param eProdCosmyPerf tipo_producto
      */
-    cProductos_Perfumeria(string fecha_venc, eProdCosmyPerf tipo_producto, string ID, float precio, int stock) :cProductos(ID, precio, stock);
+    cProductos_Perfumeria(string fecha_venc, eProdCosmyPerf tipo_producto, string ID, float precio, int stock, string nombre);
 
     string get_PerfID();
 

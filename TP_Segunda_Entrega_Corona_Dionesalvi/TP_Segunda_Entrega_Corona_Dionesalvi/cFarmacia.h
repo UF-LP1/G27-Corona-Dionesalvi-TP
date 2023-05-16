@@ -7,15 +7,14 @@
 #define _CFARMACIA_H
 
 
-#include "iostream"
-#include "string.h"
+#include <iostream>
+#include <vector>
+#include <list>
+#include <ctime>
 #include "cCliente.h"
 #include "eListaNecesidad.h"
 #include "cProductos.h"
 #include "cEmpleado.h"
-#include <vector>
-#include <list>
-#include <ctime>
 #include "iterator"
 
 using namespace std;
@@ -43,11 +42,9 @@ public:
     void set_horario(string nuevo_horario);
     void sumar_fondos(double fondo_actualizado);
     bool derivar_cliente(cCliente *n);
+    list <cProductos> get_lista_productos();
 
-    /**
-     * @param turno_asignado
-     */
-    int asignaturno(int turno_asignado);
+
 protected:
 
     ~cFarmacia();
@@ -58,7 +55,7 @@ private:
     string ticket_recepcion;
     int turno;
     double fondos;
-    list<cProductos> lista_productos;
+    list<cProductos> *lista_productos;
     list<cEmpleado> lista_empleado; 
 };
 
