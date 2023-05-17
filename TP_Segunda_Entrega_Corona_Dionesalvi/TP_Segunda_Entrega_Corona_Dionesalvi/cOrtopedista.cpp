@@ -43,10 +43,6 @@ void cOrtopedista::consejo_articulosORT() {
     return;
 }
 
-/**
- * @param cCliente info
- * @return void
- */
 void cOrtopedista::contactar_cliente(cCliente info) {
     return;
 }

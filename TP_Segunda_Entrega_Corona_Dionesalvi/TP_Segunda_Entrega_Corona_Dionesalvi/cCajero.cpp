@@ -6,39 +6,23 @@
 #include "cCajero.h"
 
 
-
-
- /**
-  * cCajero implementation
-  */
-
-
-  /**
-   * @param string contrasenia_caja
-   */
 cCajero::cCajero(string contrasenia_caja) :cEmpleado(nombre, apellido, DNI) {
 
 };
 
-/**
- * @return void
- */
+
 void cCajero::entrega_ticket() {
     return;
 }
 
-/**
- * @return void
- */
+
 void cCajero::entregar_bolsa() {
 
      int i = rand();
     return;
 }
 
-/**
- * @return void
- */
+
 float cCajero::cobrar(cCliente* n, cFarmacia* k, cMostrador *j) { //FUNCION OBLIGATORIA
     float monto_total = j->aplicar_descuento(n); //monto total es el valor que devuelve mi metodo aplicar dto 
 
@@ -48,10 +32,7 @@ float cCajero::cobrar(cCliente* n, cFarmacia* k, cMostrador *j) { //FUNCION OBLI
     return monto_total;                 //retornamos el monto total por pedido de la consigna 
 }
 
-/**
- * @param cCliente info
- * @return void
- */
+
 void cCajero::datos_cliente(cCliente info) {
 
 }

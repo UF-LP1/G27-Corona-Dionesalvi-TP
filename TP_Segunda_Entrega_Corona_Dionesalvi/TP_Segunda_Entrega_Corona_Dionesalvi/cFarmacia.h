@@ -23,22 +23,9 @@ using namespace std;
 class cFarmacia {
 public:
 
-    void Operation1();
-
-    /**
-     * @param string nombre
-     * @param string direccion
-     * @param string horario
-     * @param string ticket_recepcion
-     * @param eNecesidad_cliente
-     * @param int turno
-     */
-
     cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, eListaNecesidad eNecesidad_cliente, int turno, double fondos, list<cProductos> lista_productos, list<cEmpleado> lista_empleado);
 
-    /**
-     * @param nuevo_horario
-     */
+
     void set_horario(string nuevo_horario);
     void sumar_fondos(double fondo_actualizado);
     bool derivar_cliente(cCliente *n);
