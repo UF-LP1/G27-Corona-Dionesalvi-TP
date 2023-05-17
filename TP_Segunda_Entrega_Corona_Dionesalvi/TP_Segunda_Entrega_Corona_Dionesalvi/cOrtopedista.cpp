@@ -13,7 +13,7 @@
   /**
    * @param string parte_del_cuerpo
    */
-cOrtopedista::cOrtopedista(string parte_del_cuerpo, string nombre, string apellido, string DNI,cProductos lista_productosORt) :cEmpleado(nombre, apellido, DNI) {
+cOrtopedista::cOrtopedista(string parte_del_cuerpo, string nombre, string apellido, string DNI) :cEmpleado(nombre, apellido, DNI) {
 
 }
 

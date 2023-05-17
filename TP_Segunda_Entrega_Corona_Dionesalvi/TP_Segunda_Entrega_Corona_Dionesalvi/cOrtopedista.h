@@ -18,7 +18,7 @@ public:
     /**
      * @param string parte_del_cuerpo
      */
-    cOrtopedista(string parte_del_cuerpo, string nombre, string apellido, string DNI, cProductos lista_productosORT);
+    cOrtopedista(string parte_del_cuerpo, string nombre, string apellido, string DNI);
 
     void consejo_articulosORT();
 
@@ -34,7 +34,7 @@ protected:
 
 private:
     string parte_del_cuerpo;
-    list<cProductos> lista_productosORT;
+    //list<cProductos> lista_productosORT;
 };
 
 #endif //_CORTOPEDISTA_H
