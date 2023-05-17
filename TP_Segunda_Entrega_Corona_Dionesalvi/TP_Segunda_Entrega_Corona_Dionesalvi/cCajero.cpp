@@ -7,7 +7,7 @@
 
 
 cCajero::cCajero(string contrasenia_caja) :cEmpleado(nombre, apellido, DNI) {
-
+    this->contrasenia_caja = contrasenia_caja;
 };
 
 

@@ -7,7 +7,7 @@
 #define _CORTOPEDISTA_H
 
 #include "cEmpleado.h"
-#include "vector"
+
 
 using namespace std;
 

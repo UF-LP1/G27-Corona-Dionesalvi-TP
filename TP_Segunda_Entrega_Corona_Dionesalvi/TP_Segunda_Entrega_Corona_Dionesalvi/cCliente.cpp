@@ -6,8 +6,18 @@
 #include "cCliente.h"
 
 
-cCliente::cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, eOS OS, eFormadepago formadepago, string receta, list <string> productos_requeridos, float billetera, cCarrito *carro, eListaNecesidad necesidad) {
-
+cCliente::cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, eOS OS, eFormadepago formadepago, string receta, list <string> productos_requeridos, float billetera, cCarrito *carro, eListaNecesidad necesidad):DNI(DNI) {
+    this->nombre = nombre;
+    this->apellido = apellido;
+    this->mail = mail;
+    this->formatoticket = formatoticket;
+    this->OS = OS;
+    this->formadepago = formadepago;
+    this->receta = receta;
+    this->productos_requeridos = productos_requeridos;
+    this->billetera;
+    this->carro = carro;   
+    this->necesidad = necesidad;
 }
 
 string cCliente::get_mail() {

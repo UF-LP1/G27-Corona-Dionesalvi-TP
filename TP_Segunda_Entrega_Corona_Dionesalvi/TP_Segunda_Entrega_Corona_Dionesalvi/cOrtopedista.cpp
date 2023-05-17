@@ -18,7 +18,7 @@ void cOrtopedista::trabajar() {
     switch (i)
     {
     case 1: 
-        cout<<"Recomiendo cabestrillo"<<endl;
+        cout<<"Recomiendo cabestrillo"<<endl; 
     case 2:
         cout << "Recomiendo muniequeras" << endl;
     case 3:

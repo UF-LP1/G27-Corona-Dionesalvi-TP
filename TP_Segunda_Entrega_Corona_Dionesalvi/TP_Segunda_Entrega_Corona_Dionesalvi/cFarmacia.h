@@ -38,6 +38,7 @@ private:
     double fondos;
     list<cProductos> *lista_productos;
     list<cEmpleado> lista_empleado; 
+    eListaNecesidad eNecesidad_cliente;
 };
 
 #endif //_CFARMACIA_H

@@ -10,6 +10,15 @@
 
 
 cFarmacia::cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, eListaNecesidad eNecesidad_cliente, int turno, double fondos, list<cProductos> lista_productos, list<cEmpleado> lista_empleado) {
+    this->nombre = nombre;
+    this->direccion = direccion;
+    this->horario = horario;
+    this->ticket_recepcion = ticket_recepcion;
+    this->eNecesidad_cliente = eNecesidad_cliente;
+    this->turno = turno;
+    this->fondos = fondos;
+    this->lista_productos = &lista_productos;
+    this->lista_empleado = lista_empleado;
 
 }
 

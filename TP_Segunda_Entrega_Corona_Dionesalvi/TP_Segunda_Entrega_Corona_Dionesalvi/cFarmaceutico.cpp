@@ -1,20 +1,10 @@
-/**
- * Project Untitled
- */
 
 
 #include "cFarmaceutico.h"
 
- /**
-  * cFarmaceutico implementation
-  */
 
-
-  /**
-   * @param string matricula
-   */
-cFarmaceutico::cFarmaceutico(string matricula) : cEmpleado(nombre, apellido, DNI) {
-
+cFarmaceutico::cFarmaceutico(string matricula):matricula(matricula): cEmpleado(nombre, apellido, DNI) {
+   
 }
 
 /**

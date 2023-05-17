@@ -46,7 +46,7 @@ int main()
 
     delete(farmacia_);
     delete(carrito);
-    delete(cliente);
+    delete(cliente); 
     delete(cajero);
     delete(cajero2);
     delete(mostrador);
