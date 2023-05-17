@@ -11,9 +11,9 @@ cCajero::cCajero(string contrasenia_caja) :cEmpleado(nombre, apellido, DNI) {
 };
 
 
-void cCajero::entregar_bolsa() { //IMPRIME LISTA PRODUCTOS LLEVADOS
-
-     int i = rand();
+void cCajero::entregar_bolsa(cCarrito* c) { //IMPRIME LISTA PRODUCTOS LLEVADOS
+    c->get_lista_productosllevados();
+    cout << c; 
     return;
 }
 

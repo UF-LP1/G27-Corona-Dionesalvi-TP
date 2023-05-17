@@ -19,10 +19,10 @@ public:
     ~cProductos();
     float get_precio();
     bool consultar_stock(int cant_stock_necesario);
-    bool actualizar_precio(int nuevo_precio);
+    void actualizar_precio(int nuevo_precio);
     string get_ID();
     string get_nombre();
-    unsigned int get_stock();
+    int get_stock();
 
 
 protected:

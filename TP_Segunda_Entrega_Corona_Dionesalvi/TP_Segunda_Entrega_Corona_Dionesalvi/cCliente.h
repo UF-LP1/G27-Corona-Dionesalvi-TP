@@ -23,7 +23,7 @@ using namespace std;
 class cCliente {
 public:
 
-    cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, eOS OS, eFormadepago formadepago, string receta, list<string> productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad);
+    cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, eOS OS, eFormadepago formadepago, string receta, list<string> productos_requeridos, float billetera, cCarrito *carro, eListaNecesidad necesidad);
 
     string get_mail();
 
@@ -39,19 +39,9 @@ public:
 
     list <string> get_lista_productos_requeridos();
 
-
-
-    /**
-     * @param cMostrador n
-     */
-    void recibir_ticket(cMostrador n);
-    /**
-     * @param cCajero n
-     */
-    void recibir_bolsacompras(cCajero n);
     cCarrito* get_carro();
 
-    void agregar_lista_productos_requeridos();   //Metodo que agrega productos a la lista una vez que el cliente esta adentro de la farmacia 
+   
 
 protected:
 
@@ -67,7 +57,7 @@ private:
     string receta;
     list <string> productos_requeridos;
     float billetera;
-    cCarrito carro;
+    cCarrito *carro;
     eListaNecesidad necesidad;
    
 };

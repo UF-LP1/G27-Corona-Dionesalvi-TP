@@ -6,7 +6,7 @@
 #include "cCliente.h"
 
 
-cCliente::cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, eOS OS, eFormadepago formadepago, string receta, list <string> productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad) {
+cCliente::cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, eOS OS, eFormadepago formadepago, string receta, list <string> productos_requeridos, float billetera, cCarrito *carro, eListaNecesidad necesidad) {
 
 }
 
@@ -39,16 +39,6 @@ list <string> cCliente::get_lista_productos_requeridos() {
 }
 
 
-
-
-void cCliente::recibir_ticket(cMostrador n) {
-    return;
-}
-
-void cCliente::recibir_bolsacompras(cCajero n) {
-    return;
-}
-void agregar_lista_productos_requeridos();
 
 cCarrito* cCliente::get_carro() {
     return &this->carro;

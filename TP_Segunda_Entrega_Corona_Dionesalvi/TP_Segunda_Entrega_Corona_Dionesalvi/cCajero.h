@@ -2,14 +2,11 @@
  * Project Untitled
  */
 
-
 #ifndef _CCAJERO_H
 #define _CCAJERO_H
 
 #include "cEmpleado.h"
 #include"cFarmacia.h"
-#include "iostream"
-#include "string.h"
 #include "cCliente.h"
 #include "cCarrito.h"
 
@@ -22,8 +19,7 @@ public:
 
     cCajero(string contrasenia_caja);
 
-    void entregar_bolsa();
-
+    void entregar_bolsa(cCarrito* c);
     float trabajar(cCliente* n, cFarmacia* k, cMostrador*j); //COBRA
 
 protected:

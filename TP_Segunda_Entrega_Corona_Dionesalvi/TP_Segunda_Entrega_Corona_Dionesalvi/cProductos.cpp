@@ -5,7 +5,6 @@
 
 #include "cProductos.h"
 
- 
 cProductos::cProductos(string ID, float precio, unsigned int stock, string nombre) :ID(ID), precio(precio), stock(stock), nombre(nombre) {
 
 }
@@ -13,32 +12,27 @@ cProductos::cProductos(string ID, float precio, unsigned int stock, string nombr
 float cProductos::get_precio() {
 	return this->precio;
 }
-bool cProductos::actualizar_precio(int nuevo_precio)
-{
-	return false;
-}
 string cProductos::get_ID() {
 	return this->ID;
 }
-
-unsigned int cProductos::get_stock() {
+int cProductos::get_stock() {
 	return this->stock;
 }
 string cProductos::get_nombre() {
 	return this->nombre;
 }
-
-
-cProductos::~cProductos() {
-
-}
-
 bool cProductos::consultar_stock(int cant_stock_necesario) {
-	int* n = ();
+	int n = this->get_stock();
 	if (cant_stock_necesario <= n)
 		return true;
 	else
 		return false;
-
+}
+void cProductos::actualizar_precio(int nuevo_precio)
+{
+	this->precio = nuevo_precio;
 }
 
+cProductos::~cProductos() {
+
+}

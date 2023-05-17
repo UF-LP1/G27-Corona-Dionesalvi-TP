@@ -17,29 +17,29 @@ void cMostrador::ticket_saldopagar(cCliente *n) {
     return;
 }
 
-float cMostrador::trabajar(cCliente *n) { //aplica el descuento o no, depende 
-
+float cMostrador::trabajar(cCliente *a,cCarrito *c) { //aplica el descuento o no, depende 
+    
     float dto = 0;
     float monto_con_dto = 0;
     float monto_sin_dto = 0;
-    list<cProductos> aux = n->get_carro()->seleccionar_productos();
+    list<cProductos> aux = c->get_lista_productosllevados();
     
     for (list<cProductos>::iterator it_ = aux.begin(); it_ != aux.end(); it_++) {  //bucle hasta el final de la lista 
         monto_sin_dto += it_->get_precio();
     }
     
-    switch (a)
+    switch (a->get_OS())
     {
-        case 1: a == CEMIC;
+    case CEMIC:
             dto = 10;
             monto_con_dto = monto_sin_dto * 0.1;
-        case 2: a == SWISSMEDICAL;
+    case SWISSMEDICAL:
             dto = 15;
             monto_con_dto = monto_sin_dto * 0.15;
-        case 3: a == GALENO;
+    case GALENO:
             dto = 30;
             monto_con_dto = monto_sin_dto * 0.3;
-        case 4: a == OSDE;
+    case OSDE:
             dto = 25;
             monto_con_dto = monto_sin_dto * 0.25;
         default: 

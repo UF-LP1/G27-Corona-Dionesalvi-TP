@@ -18,7 +18,7 @@ public:
 
     void ticket_saldopagar(cCliente *n);
 
-    float trabajar(cCliente *n);
+    float trabajar(cCliente *n); //aplica dto
 
     ~cMostrador();
 
