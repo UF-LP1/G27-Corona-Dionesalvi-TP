@@ -6,8 +6,6 @@
 #ifndef _CFARMACIA_H
 #define _CFARMACIA_H
 
-
-#include <iostream>
 #include <vector>
 #include <list>
 #include <ctime>
@@ -29,11 +27,7 @@ public:
     void set_horario(string nuevo_horario);
     void sumar_fondos(double fondo_actualizado);
     bool derivar_cliente(cCliente *n);
-    list <cProductos> get_lista_productos();
-
-
-protected:
-
+    list <cProductos> *get_lista_productos();
     ~cFarmacia();
 private:
     string nombre;

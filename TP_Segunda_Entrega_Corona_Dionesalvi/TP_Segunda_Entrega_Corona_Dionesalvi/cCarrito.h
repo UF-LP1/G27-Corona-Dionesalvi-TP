@@ -8,16 +8,16 @@
 #include"cCliente.h"
 #include "cProductos.h"
 #include<list>
+#include<string>
 using namespace std;
 
 class cCarrito {
 public:
-
     cCarrito(int cant_productos, string tipo_carrito);
 
     
     void seleccionar_productos(cCliente* c, cFarmacia* p);
-    list <string> get_lista_productosllevados();
+    list <cProductos> get_lista_productosllevados();
 
 
 protected:
@@ -26,7 +26,7 @@ protected:
 private:
     int cant_productos;
     string tipo_de_carrito;
-    list <string> lista_productosllevados;  // Esta lista es la de los productos que se termina llevando 
+    list <cProductos> lista_productosllevados;  // Esta lista es la de los productos que se termina llevando 
 };
 
 #endif //_CCARRITO_H

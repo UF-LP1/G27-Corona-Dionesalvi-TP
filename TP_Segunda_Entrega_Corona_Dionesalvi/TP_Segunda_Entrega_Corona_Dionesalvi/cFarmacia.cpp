@@ -60,9 +60,9 @@ bool cFarmacia::derivar_cliente(cCliente *n) {
 
 
 }
-list <cProductos> get_lista_productos() {
+list <cProductos>* cFarmacia::get_lista_productos() {
 
-    return this-> lista_productos;
+    return this->lista_productos;
 
 }
 

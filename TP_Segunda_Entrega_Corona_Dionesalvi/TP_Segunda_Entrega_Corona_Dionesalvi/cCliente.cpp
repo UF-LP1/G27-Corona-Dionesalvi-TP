@@ -41,7 +41,7 @@ list <string> cCliente::get_lista_productos_requeridos() {
 
 
 cCarrito* cCliente::get_carro() {
-    return &this->carro;
+    return this->carro;
 }
 
 cCliente::~cCliente() {
