@@ -6,38 +6,23 @@
 #include "cMostrador.h"
 #include "cCarrito.h"
 
- /**
-  * cMostrador implementation
-  */
 
-
-  /**
-   * @param string diadedescuento
-   */
 cMostrador::cMostrador  (eDescuentos descuento) :cEmpleado(nombre, apellido, DNI) {
 
 }
 
-/**
- * @return void
- */
-
-
 void cMostrador::ticket_saldopagar(cCliente *n) {
-    float a = aplicar_descuento(n);
+    float a = trabajar(n);
     cout << a << endl;
     return;
 }
 
-/**
- * @return void
- */
-float cMostrador::aplicar_descuento(cCliente *n) {
+float cMostrador::trabajar(cCliente *n) { //aplica el descuento o no, depende 
+
     float dto = 0;
     float monto_con_dto = 0;
     float monto_sin_dto = 0;
-    list<cProductos> aux = n->get_carro() -> get_lista_productosllevados();
-    eOS a = n->get_OS();
+    list<cProductos> aux = n->get_carro()->seleccionar_productos();
     
     for (list<cProductos>::iterator it_ = aux.begin(); it_ != aux.end(); it_++) {  //bucle hasta el final de la lista 
         monto_sin_dto += it_->get_precio();
@@ -63,14 +48,6 @@ float cMostrador::aplicar_descuento(cCliente *n) {
     }
 
     return monto_con_dto; 
-}
-
-/**
- * @param cCliente info
- * @return void
- */
-void cMostrador::contactar_cliente(cCliente info) {
-
 }
 
 cMostrador::~cMostrador() {

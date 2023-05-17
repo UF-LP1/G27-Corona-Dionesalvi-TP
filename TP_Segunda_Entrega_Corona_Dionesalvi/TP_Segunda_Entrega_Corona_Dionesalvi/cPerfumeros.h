@@ -17,12 +17,7 @@ public:
      */
     cPerfumeros(string credencial, string nombre, string apellido, string DNI);
 
-    void asesorar_perf();
-
-    /**
-     * @param cCliente info
-     */
-    void contactar_cliente(cCliente info);
+    void trabajar();
 
     ~cPerfumeros();
 

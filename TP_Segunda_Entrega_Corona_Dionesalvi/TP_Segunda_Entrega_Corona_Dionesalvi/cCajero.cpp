@@ -11,19 +11,14 @@ cCajero::cCajero(string contrasenia_caja) :cEmpleado(nombre, apellido, DNI) {
 };
 
 
-void cCajero::entrega_ticket() {
-    return;
-}
-
-
-void cCajero::entregar_bolsa() {
+void cCajero::entregar_bolsa() { //IMPRIME LISTA PRODUCTOS LLEVADOS
 
      int i = rand();
     return;
 }
 
 
-float cCajero::cobrar(cCliente* n, cFarmacia* k, cMostrador *j) { //FUNCION OBLIGATORIA
+float cCajero::trabajar(cCliente* n, cFarmacia* k, cMostrador *j) { //FUNCION OBLIGATORIA
     float monto_total = j->aplicar_descuento(n); //monto total es el valor que devuelve mi metodo aplicar dto 
 
     n->restar_saldo_billetera(monto_total);                 //le descontamos al cliente de su billetera lo que pago 
@@ -33,9 +28,6 @@ float cCajero::cobrar(cCliente* n, cFarmacia* k, cMostrador *j) { //FUNCION OBLI
 }
 
 
-void cCajero::datos_cliente(cCliente info) {
-
-}
 
 cCajero::~cCajero() {
 

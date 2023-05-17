@@ -20,21 +20,12 @@ using namespace std;
 class cCajero : public cEmpleado {
 public:
 
-    /**
-     * @param string contrasenia_caja
-     */
     cCajero(string contrasenia_caja);
-
-    void entrega_ticket();
 
     void entregar_bolsa();
 
-    float cobrar(cCliente* n, cFarmacia* k, cMostrador*j);
+    float trabajar(cCliente* n, cFarmacia* k, cMostrador*j); //COBRA
 
-    /**
-     * @param cCliente info
-     */
-    void datos_cliente(cCliente info);
 protected:
 
     ~cCajero();

@@ -16,40 +16,13 @@
 class cEmpleado {
 public:
 
-    /**
-     * @param string nombre
-     * @param string apellido
-     * @param string DNI
-     */
+  
     cEmpleado(string nombre, string apellido, string DNI);
 
     string get_DNI();
 
-    void dosificacionyrecomendacion();
-
-    int descuento();
-
-    void guardarcompraenbolsa();
-
-    void asesoraperfumeria();
-
-    void facturaperfumeria();
-
-    void asesoraortopedia();
-
-    void generarticket();
-
-    virtual void recibir_cliente(cCliente* n);
-
-    /**
-     * @param cFarmacia farmacia
-     */
-    void infoFarmacia(cFarmacia farmacia);
-
-    /**
-     * @param cCliente cliente
-     */
-    void infoCliente(cCliente cliente);
+    void recibir_cliente(cCliente* n);
+    virtual void trabajar(); //método polimorfico, TODOS MIS EMPLEADOS TRABAJAN,PERO LAS REDEFINO PARA C/u
 
     ~cEmpleado();
 

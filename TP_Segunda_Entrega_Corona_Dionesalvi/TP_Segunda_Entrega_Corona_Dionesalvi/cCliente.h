@@ -12,6 +12,7 @@
 #include "cMostrador.h"
 #include "cCajero.h"
 #include "cCarrito.h"
+#include "eOS.h"
 
 #include "iostream"
 #include "string.h"
@@ -22,18 +23,7 @@ using namespace std;
 class cCliente {
 public:
 
-    /**
-     * @param string nombre
-     * @param string apellido
-     * @param string DNI
-     * @param string mail
-     * @param string formatoticket
-     * @param string OS
-     * @param eFormadepago formadepago
-     * @param string receta
-     * @param string lista_productos
-     */
-    cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, string OS, eFormadepago formadepago, string receta, list<string> productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad);
+    cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, eOS OS, eFormadepago formadepago, string receta, list<string> productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad);
 
     string get_mail();
 

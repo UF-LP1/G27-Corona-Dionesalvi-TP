@@ -7,24 +7,11 @@
 #include "cProductos.h"
 
 
- /**
-  * cCarrito implementation
-  */
-
-
-  /**
-   * @param int cant_productos
-   * @param string tipo_carrito
-   */
 cCarrito::cCarrito(int cant_productos, string tipo_carrito) {
    
 }
 
-/**
- * @param cCliente cliente
- * @param cProducto producto
- * @return void
- */
+
 list<string> seleccionar_productos(cCliente *c, cFarmacia* p) { //tendria que recibir FARMCIA que es quien tiene la lista de productos totales
     list <string> aux = c->get_lista_productos_requeridos();
     list <cProductos> aux2 = p->get_lista_productos();
@@ -37,12 +24,8 @@ list<string> seleccionar_productos(cCliente *c, cFarmacia* p) { //tendria que re
             {
                 lista_productos_llevados.push_front(it_->get_nombre());
             }
-
         }
-        
     }
-
-
     return lista_productos_llevados;
 }
 

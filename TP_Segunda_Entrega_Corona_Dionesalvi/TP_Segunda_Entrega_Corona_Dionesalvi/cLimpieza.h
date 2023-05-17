@@ -14,18 +14,10 @@
 class cLimpieza : public cEmpleado {
 public:
 
-    /**
-     * @param string empresa_limpieza
-     * @param string horarios
-     */
+  
     cLimpieza(string empresa_limpieza, string horarios);
 
-    void limpiar();
-
-    /**
-     * @param cCliente info
-     */
-    void contactar_cliente(cCliente info);
+    void trabajar();
 
     ~cLimpieza();
 

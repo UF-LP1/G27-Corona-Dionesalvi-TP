@@ -5,22 +5,12 @@
 
 #include "cOrtopedista.h"
 
- /**
-  * cOrtopedista implementation
-  */
 
-
-  /**
-   * @param string parte_del_cuerpo
-   */
 cOrtopedista::cOrtopedista(string parte_del_cuerpo, string nombre, string apellido, string DNI) :cEmpleado(nombre, apellido, DNI) {
 
 }
 
-/**
- * @return void
- */
-void cOrtopedista::consejo_articulosORT() {
+void cOrtopedista::trabajar() {
     srand(time(0));
     int i = 0   + rand()%(4)+1;
 
@@ -43,9 +33,7 @@ void cOrtopedista::consejo_articulosORT() {
     return;
 }
 
-void cOrtopedista::contactar_cliente(cCliente info) {
-    return;
-}
+
 
 cOrtopedista::~cOrtopedista() {
 

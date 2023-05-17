@@ -34,7 +34,7 @@ cProductos::~cProductos() {
 }
 
 bool cProductos::consultar_stock(int cant_stock_necesario) {
-	unsigned int* n = ();
+	int* n = ();
 	if (cant_stock_necesario <= n)
 		return true;
 	else

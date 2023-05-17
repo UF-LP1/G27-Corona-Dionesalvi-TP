@@ -5,23 +5,12 @@
 
 #include "cLimpieza.h"
 
- /**
-  * cLimpieza implementation
-  */
 
-
-  /**
-   * @param string empresa_limpieza
-   * @param string horarios
-   */
 cLimpieza::cLimpieza(string empresa_limpieza, string horarios) : cEmpleado(nombre, apellido, DNI) {
 
 }
 
-/**
- * @return void
- */
-void cLimpieza::limpiar() {
+void cLimpieza::trabajar() {
     enum opciones { barrer, trapear, aspirar };
 
     srand(time(0));
@@ -42,13 +31,6 @@ void cLimpieza::limpiar() {
     return;
 }
 
-/**
- * @param cCliente info
- * @return void
- */
-void cLimpieza::contactar_cliente(cCliente info) {
-    return;
-}
 
 cLimpieza::~cLimpieza() {
 

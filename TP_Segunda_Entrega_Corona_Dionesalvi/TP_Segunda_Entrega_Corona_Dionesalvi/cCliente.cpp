@@ -5,43 +5,21 @@
 
 #include "cCliente.h"
 
- /**
-  * cCliente implementation
-  */
 
-
-  /**
-   * @param string nombre
-   * @param string apellido
-   * @param string DNI
-   * @param string mail
-   * @param string formatoticket
-   * @param string OS
-   * @param eFormadepago formadepago
-   * @param string receta
-   * @param string lista_productos
-   */
-cCliente::cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, string OS, eFormadepago formadepago, string receta, list <string> productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad) {
+cCliente::cCliente(string nombre, string apellido, string DNI, string mail, string formatoticket, eOS OS, eFormadepago formadepago, string receta, list <string> productos_requeridos, float billetera, cCarrito carro, eListaNecesidad necesidad) {
 
 }
 
-/**
- * @return string
- */
 string cCliente::get_mail() {
     return this->mail;
 }
 
-/**
- * @return const string
- */
+
 const string cCliente::get_DNI() {
     return this->DNI;
 }
 
-/**
- * @return void
- */
+
 string cCliente::get_formatoticket() {
     return this->formatoticket;
 }
@@ -62,23 +40,11 @@ list <string> cCliente::get_lista_productos_requeridos() {
 
 
 
-/**
- * @return void
- */
 
-
- /**
-  * @param cMostrador n
-  * @return void
-  */
 void cCliente::recibir_ticket(cMostrador n) {
     return;
 }
 
-/**
- * @param cCajero n
- * @return void
- */
 void cCliente::recibir_bolsacompras(cCajero n) {
     return;
 }
