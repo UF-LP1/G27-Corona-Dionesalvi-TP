@@ -11,19 +11,15 @@
 class cProductos {
 public:
 
-    /**
-     * @param string ID
-     * @param float precio
-     */
+  
 
     cProductos(string ID, float precio, unsigned int stock, string nombre);
 
 
     ~cProductos();
-    virtual void agregarimpuesto(); //1nuevo metodo para el virtual
     float get_precio();
-    virtual bool consultar_stock(int cant_stock_necesario);
-    virtual bool actualizar_precio(int nuevo_precio);
+    bool consultar_stock(int cant_stock_necesario);
+    bool actualizar_precio(int nuevo_precio);
     string get_ID();
     string get_nombre();
     unsigned int get_stock();

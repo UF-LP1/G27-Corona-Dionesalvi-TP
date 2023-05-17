@@ -8,31 +8,12 @@
 #include "cPerfumeros.h"
 #include "cFarmaceutico.h"
 
- /**
-  * cFarmacia implementation
-  */
 
-
-void cFarmacia::Operation1() {
-
-}
-
-/**
- * @param string nombre
- * @param string direccion
- * @param string horario
- * @param string ticket_recepcion
- * @param eNecesidad_cliente
- * @param int turno
- */
 cFarmacia::cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, eListaNecesidad eNecesidad_cliente, int turno, double fondos, list<cProductos> lista_productos, list<cEmpleado> lista_empleado) {
 
 }
 
-/**
- * @param nuevo_horario
- * @return string
- */
+
 void cFarmacia::set_horario(string nuevo_horario) {  //string cFarmacia:: set_horario(string nuevo_horario) estaba asi
     this->horario = nuevo_horario;
 }
