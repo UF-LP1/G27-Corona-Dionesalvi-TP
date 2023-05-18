@@ -9,6 +9,7 @@
 #include <vector>
 #include <list>
 #include <ctime>
+#include <iostream>
 #include "cCliente.h"
 #include "eListaNecesidad.h"
 #include "cProductos.h"

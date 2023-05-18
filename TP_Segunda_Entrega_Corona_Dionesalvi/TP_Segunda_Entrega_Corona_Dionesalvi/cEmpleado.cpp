@@ -6,7 +6,9 @@
 #include "cEmpleado.h"
 #include "cCliente.h"
 
-cEmpleado::cEmpleado(string nombre, string apellido, string DNI) :nombre(nombre), apellido(apellido), DNI(DNI) {
+cEmpleado::cEmpleado(string nombre, string apellido, string DNI) :DNI(DNI) {
+    this->nombre = nombre;
+    this->apellido = apellido;
 
 }
 

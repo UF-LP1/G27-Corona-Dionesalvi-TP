@@ -6,7 +6,7 @@
 #include "cCajero.h"
 
 
-cCajero::cCajero(string contrasenia_caja) :cEmpleado(nombre, apellido, DNI) {
+cCajero::cCajero(string contrasenia_caja, string nombre, string apellido, string DNI):cEmpleado(nombre, apellido, DNI) {
     this->contrasenia_caja = contrasenia_caja;
 };
 

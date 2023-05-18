@@ -14,11 +14,11 @@
 class cMostrador : public cEmpleado {
 public:
 
-    cMostrador( eDescuentos descuento);
+    cMostrador(eDescuentos descuento, string nombre, string apellido, string DNI);
 
     void ticket_saldopagar(cCliente *n);
 
-    float trabajar(cCliente *n); //aplica dto
+    float trabajar( cCliente* a, cCarrito* c); //aplica dto   //cCliente *n,
 
     ~cMostrador();
 

@@ -7,8 +7,8 @@
 #include "cCarrito.h"
 
 
-cMostrador::cMostrador  (eDescuentos descuento) :cEmpleado(nombre, apellido, DNI) {
-
+cMostrador::cMostrador  (eDescuentos descuento, string nombre, string apellido, string DNI) :cEmpleado(nombre, apellido, DNI) {
+    this->descuento = descuento;
 }
 
 void cMostrador::ticket_saldopagar(cCliente *n) {

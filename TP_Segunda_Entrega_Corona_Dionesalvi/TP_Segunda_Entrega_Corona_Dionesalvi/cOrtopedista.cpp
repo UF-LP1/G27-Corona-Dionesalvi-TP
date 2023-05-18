@@ -7,7 +7,7 @@
 
 
 cOrtopedista::cOrtopedista(string parte_del_cuerpo, string nombre, string apellido, string DNI) :cEmpleado(nombre, apellido, DNI) {
-
+    this->parte_del_cuerpo = parte_del_cuerpo;
 }
 
 void cOrtopedista::trabajar() {

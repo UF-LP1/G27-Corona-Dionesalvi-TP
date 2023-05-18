@@ -6,8 +6,8 @@
 #include "cPerfumeros.h"
 
 
-cPerfumeros::cPerfumeros(string credencial, string nombre, string apellido, string DNI) :cEmpleado(nombre, apellido, DNI) {
-
+cPerfumeros::cPerfumeros(string credencial, string nombre, string apellido, string DNI) :cEmpleado(nombre, apellido, DNI),credencial(credencial) {
+   
 }
 
 void cPerfumeros::trabajar() {

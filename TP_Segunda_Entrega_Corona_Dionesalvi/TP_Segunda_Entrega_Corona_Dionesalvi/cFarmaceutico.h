@@ -14,10 +14,8 @@
 class cFarmaceutico : public cEmpleado {
 public:
 
-    /**
-     * @param string matricula
-     */
-    cFarmaceutico(string matricula);
+    
+    cFarmaceutico(string matricula, string nombre, string apellido, string DNI);
 
 
     void recomendacion_med();

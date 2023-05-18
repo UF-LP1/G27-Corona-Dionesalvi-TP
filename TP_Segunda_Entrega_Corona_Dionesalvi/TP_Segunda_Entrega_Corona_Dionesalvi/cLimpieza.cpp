@@ -6,8 +6,10 @@
 #include "cLimpieza.h"
 
 
-cLimpieza::cLimpieza(string empresa_limpieza, string horarios) : cEmpleado(nombre, apellido, DNI) {
-
+cLimpieza::cLimpieza(string empresa_limpieza, eHorarios turnos, string nombre, string apellido, string DNI) : cEmpleado(nombre, apellido, DNI) {
+    this->empresa_limpieza = empresa_limpieza;
+    this->turnos = turnos;
+    //horarios del tipo string??? 
 }
 
 void cLimpieza::trabajar() {

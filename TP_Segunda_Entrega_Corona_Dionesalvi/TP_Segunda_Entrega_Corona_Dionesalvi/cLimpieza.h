@@ -15,7 +15,7 @@ class cLimpieza : public cEmpleado {
 public:
 
   
-    cLimpieza(string empresa_limpieza, string horarios);
+    cLimpieza(string empresa_limpieza, eHorarios turnos, string nombre, string apellido, string DNI);
 
     void trabajar();
 

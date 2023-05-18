@@ -16,7 +16,7 @@ public:
     cProductos(string ID, float precio, unsigned int stock, string nombre);
 
 
-    ~cProductos();
+  
     float get_precio();
     bool consultar_stock(int cant_stock_necesario);
     void actualizar_precio(int nuevo_precio);
@@ -24,7 +24,7 @@ public:
     string get_nombre();
     int get_stock();
 
-
+    ~cProductos();
 protected:
 
 

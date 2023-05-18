@@ -5,8 +5,8 @@
 
 #include "cProductos.h"
 
-cProductos::cProductos(string ID, float precio, unsigned int stock, string nombre) :ID(ID), precio(precio), stock(stock), nombre(nombre) {
-	this->ID = ID;
+cProductos::cProductos(string ID, float precio, unsigned int stock, string nombre) :ID(ID) {
+
 	this->precio = precio;
 	this->stock = stock;
 	this->nombre = nombre;
