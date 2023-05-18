@@ -12,9 +12,13 @@ cCajero::cCajero(string contrasenia_caja, string nombre, string apellido, string
 
 
 void cCajero::entregar_bolsa(cCarrito* c) { //IMPRIME LISTA PRODUCTOS LLEVADOS
-    c->get_lista_productosllevados();
-    cout << c; 
-    return;
+   
+    
+    for (list<cProductos>::iterator it_ = c->get_lista_productosllevados().begin(); it_ != c->get_lista_productosllevados().end(); it_++)
+    {
+        cout << &(*it_);  //preguntar si imprime maniana a fran
+    }
+  
 }
 
 

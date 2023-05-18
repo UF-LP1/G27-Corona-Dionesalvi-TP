@@ -55,7 +55,11 @@ int main()
     
     switch (opcion)
     {
-        case 1;
+    case 1:
+        farmacia_->derivar_cliente(cliente);
+        break;
+    case 2:
+        mostrador->recibir_cliente(cliente);
     }
 
 
