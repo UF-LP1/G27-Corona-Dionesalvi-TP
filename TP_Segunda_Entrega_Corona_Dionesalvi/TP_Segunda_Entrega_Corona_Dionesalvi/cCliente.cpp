@@ -57,3 +57,7 @@ cCarrito* cCliente::get_carro() {
 cCliente::~cCliente() {
 
 }
+string cCliente::get_nombre()
+{
+    return this->nombre;
+}

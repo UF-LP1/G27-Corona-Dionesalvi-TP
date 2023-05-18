@@ -38,7 +38,8 @@ public:
 
     cCarrito* get_carro();
 
-   
+    string get_nombre();
+
 
 protected:
 

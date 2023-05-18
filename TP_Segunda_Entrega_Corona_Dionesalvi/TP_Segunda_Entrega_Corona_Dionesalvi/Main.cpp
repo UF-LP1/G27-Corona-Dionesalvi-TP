@@ -23,7 +23,7 @@ int main()
     cCarrito* carrito = new cCarrito(2,"chico");
     //cCarrito carr(2, "chico");
     cCliente* cliente = new cCliente("Manuel", "Morales", "44323456", "fedemorales@gmail.com", "impreso", OSDE, efectivo, "ibuprofeno", productos_requeridos, 232 , carrito , farmacia);
-    cCajero* cajero = new cCajero("7821");  
+    cCajero* cajero = new cCajero("7821",);  
     cCajero* cajero2 = new cCajero("57497");
     cMostrador* mostrador = new cMostrador(C_10);
     cMostrador* mostrador2 = new cMostrador(O_25);
@@ -43,6 +43,26 @@ int main()
     printf("monto:%f", monto);//Imprimimos el monto total
 
     mostrador->ticket_saldopagar(cliente);
+    int opcion = 0;
+
+    do
+    {
+         cout << "Senior/a", cliente->get_nombre(), "Va a seguir comprando? Ingrese 1 para SI y 2 para NO  ";
+         cin >> opcion;
+         
+    }
+    while (opcion != 1 || opcion != 2);
+    
+    switch (opcion)
+    {
+        case 1;
+    }
+
+
+
+
+
+
 
     delete(farmacia_);
     delete(carrito);
