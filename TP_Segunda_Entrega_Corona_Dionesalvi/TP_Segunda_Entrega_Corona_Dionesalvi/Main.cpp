@@ -42,83 +42,82 @@ int main()
     float monto = cajero->trabajar();   //Llamamos a la funcion cobrar
     cout << "monto:%f" << monto<< endl;//Imprimimos el monto total
 
-    float limpiar = limpieza->trabajar();
+    float limpiar = limpieza->trabajar(); //imprimo lo que esta haciendo el de limpieza
     for(float n = 0; n < limpiar; limpiar++ ){
             if (limpiar == 1)
                 cout << "Barriendo vereda" << endl;
-                break;
-            if (limpiar == 2)
-            cout << "Trapeando sector 1" << endl;
-                break;
-            if(limpiar == 3)
-            cout << "Aspirando deposito" << endl;
-                break;
+              
+            else if(limpiar == 2)
+                cout << "Trapeando sector 1" << endl;
+       
+            else 
+                cout << "Aspirando deposito" << endl;
+                
     }
 
-    float ort = ortopedista->trabajar();
+    float ort = ortopedista->trabajar(); //imprimo la recomendacion de los productos ortopedicos
     for (float n = 0; n < ort; ort++) {
         if (ort == 1)
             cout << "Recomiendo cabestrillo" << endl;
-        break;
-        if (ort == 2)
+        
+        else if (ort == 2)
             cout << "Recomiendo muniequeras" << endl;
-        break;
-        if (ort == 3)
+        
+        else if (ort == 3)
             cout << "Recomiendo medias de compresion" << endl;
-        break;
-        if (ort == 4)
+        
+        else 
             cout << "Recomiendo vendas" << endl;
-        break;
+      
     }
 
 
-    float perf = perfumeros->trabajar();
+    float perf = perfumeros->trabajar(); //imprimo la recomendacion de art de perfumeria y cosmetica
     for (float n = 0; n < perf; perf++) {
         if (perf == 1)
             cout << "El mejor champu es Pantene" << endl;
-        break;
-        if (perf == 2)
+        
+        else if (perf == 2)
             cout << "Recomiendo el desodorante Dove" << endl;
-        break;
-        if (perf == 3)
+        
+        else if (perf == 3)
             cout << "Recomiendo el jabon Dove" << endl;
-        break;
-        if (perf == 4)
+       
+        else if (perf == 4)
             cout << "Recomiendo la crema corporal Dove" << endl;
-        break;
-        if (perf == 5)
+        
+        else if (perf == 5)
             cout << "Recomiendo la crema facial Dove" << endl;
-        break;
-        if (perf == 6)
+      
+        else if (perf == 6)
             cout << "Recomiendo el perfume Alma de Antonio Bandera" << endl;
-        break;
-        if (perf == 7)
+       
+        else if (perf == 7)
             cout << "Recomiendo la base Maybelline" << endl;
-        break;
-        if (perf == 8)
+       
+        else  
             cout << "Llevate el esmalte bordo" << endl;
-        break;
-
+       
     }
 
 
-    float farm = farmaceutico->trabajar();
+    float farm = farmaceutico->trabajar(); //imprimo las recomendaciones de medicamentos
     for (float n = 0; n < farm; farm++) {
         if (farm == 1)
             cout << "Para dolores de cabeza, recomiendo Ibuprofeno" << endl;
-        break;
-        if (farm == 2)
+        
+        else if (farm == 2)
             cout << "Para fuertes molestias menstruales, recomiendo Ibuevanol" << endl;
-        break;
-        if (farm == 3)
+        
+        else if (farm == 3)
             cout << "Si le esta costando conciliar el sueño, recomiendo Alplax" << endl;
-        break;
-        if (farm == 4)
+      
+        else if (farm == 4)
             cout << "Si ayer tomo mucho alcohol, hoy tome resaquit" << endl;
-        break;
-        if (farm == 5)
+      
+        else 
             cout << "Si sufre mareos cuando viaja, consuma dramamine" << endl;
-        break;
+       
     }
 
     mostrador->ticket_saldopagar();

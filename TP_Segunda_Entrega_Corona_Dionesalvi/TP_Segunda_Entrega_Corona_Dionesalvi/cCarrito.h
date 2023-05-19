@@ -5,10 +5,12 @@
 
 #ifndef _CCARRITO_H
 #define _CCARRITO_H
-#include"cCliente.h"
+
 #include "cProductos.h"
 #include<list>
 #include<string>
+class cCliente;
+class cFarmacia;
 using namespace std;
 
 class cCarrito {

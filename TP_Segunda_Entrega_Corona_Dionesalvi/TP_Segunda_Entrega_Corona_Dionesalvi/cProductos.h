@@ -6,7 +6,8 @@
 #ifndef _CPRODUCTOS_H
 #define _CPRODUCTOS_H
 
-#include "cFarmacia.h"
+#include <string>
+
 
 class cProductos {
 public:

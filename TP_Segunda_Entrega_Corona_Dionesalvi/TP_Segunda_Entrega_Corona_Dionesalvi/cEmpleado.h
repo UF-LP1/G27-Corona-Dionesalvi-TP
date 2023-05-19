@@ -7,8 +7,6 @@
 #define _CEMPLEADO_H
 
 
-#include "cFarmacia.h"
-#include "cEmpleado.h"
 #include "cCliente.h"
 
 

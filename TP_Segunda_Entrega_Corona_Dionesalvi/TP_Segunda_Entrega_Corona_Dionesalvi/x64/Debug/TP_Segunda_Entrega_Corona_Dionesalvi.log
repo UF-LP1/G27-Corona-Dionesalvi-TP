@@ -1,139 +1,75 @@
 ﻿  cCajero.cpp
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(14,37): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(19,9): error C2065: 'cout': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(31,41): error C2665: 'cFarmacia::cFarmacia':ninguna función sobrecargada pudo convertir todos los tipos de argumento
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,5): message : puede ser 'cFarmacia::cFarmacia(std::string,std::string,std::string,std::string,eListaNecesidad,int,double,std::list<cProductos,std::allocator<cProductos>>,std::list)'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(31,41): message : 'cFarmacia::cFarmacia(std::string,std::string,std::string,std::string,eListaNecesidad,int,double,std::list<cProductos,std::allocator<cProductos>>,std::list)': el argumento 9 no puede convertirse de 'std::list<cEmpleado,std::allocator<cEmpleado>>' a 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(31,180): message : No hay disponible ningún operador de conversión definido por el usuario que pueda realizar esta conversión, o bien no se puede llamar al operador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(31,41): message : al hacer coincidir la lista de argumentos '(const char [10], const char [13], const char [55], const char [2], eListaNecesidad, int, int, std::list<cProductos,std::allocator<cProductos>>, std::list<cEmpleado,std::allocator<cEmpleado>>)'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(32,49): error C2059: error de sintaxis: ')'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(33,37): error C2661: 'cCliente::cCliente': ninguna función sobrecargada acepta 12 argumentos
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(33,37): message : al hacer coincidir la lista de argumentos '(const char [7], const char [8], const char [9], const char [22], const char [8], eOS, eFormadepago, const char [11], std::list<std::string,std::allocator<std::string>>, int, cCarrito *, eListaNecesidad)'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(40,9): error C2065: 'cout': identificador no declarado
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(40,48): error C2065: 'endl': identificador no declarado
   cCarrito.cpp
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(26,22): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(28,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(34,12): error C3646: 'direccion': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(34,21): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(35,12): error C3646: 'horario': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(35,19): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(36,12): error C3646: 'ticket_recepcion': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(36,28): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,12): error C3646: 'get_DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,19): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,21): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,12): error C3646: 'apellido': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C3646: 'DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,13): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(22,25): error C2061: error de sintaxis: identificador 'cCarrito'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(31,12): error C3646: 'contrasenia_caja': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(31,28): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,194): error C2061: error de sintaxis: identificador 'cCarrito'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(39,13): error C2143: error de sintaxis: falta ';' delante de '*'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(39,13): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(39,26): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(60,14): error C2143: error de sintaxis: falta ';' delante de '*'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(60,14): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(60,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.cpp(13,26): error C2027: uso del tipo 'cCliente' sin definir
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(12,7): message : vea la declaración de 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.cpp(14,32): error C2027: uso del tipo 'cFarmacia' sin definir
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(13,7): message : vea la declaración de 'cFarmacia'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.cpp(20,31): error C2039: "get_nombre": no es un miembro de "cProductos"
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(11,7): message : vea la declaración de 'cProductos'
   cCliente.cpp
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(26,22): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(28,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(33,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(34,12): error C3646: 'direccion': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(34,21): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(35,12): error C3646: 'horario': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(35,19): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(36,12): error C3646: 'ticket_recepcion': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(36,28): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,12): error C3646: 'get_DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,19): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,21): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(18,15): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,12): error C3646: 'get_DNI': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,19): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,21): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(28,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(28,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(29,12): error C3646: 'apellido': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(29,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,12): error C3646: 'apellido': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C3646: 'DNI': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C3646: 'DNI': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,38): error C2061: error de sintaxis: identificador 'string'
@@ -141,95 +77,83 @@ C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entreg
   cEmpleado.cpp
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(14,37): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(17,34): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.cpp(25,29): error C2039: "get_necesidad": no es un miembro de "cCliente"
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(20,7): message : vea la declaración de 'cCliente'
   cFarmaceutico.cpp
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(14,37): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(17,34): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.cpp(13,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
   cFarmacia.cpp
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,12): error C3646: 'get_DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,19): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,21): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(18,15): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,12): error C3646: 'get_DNI': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,19): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,21): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(28,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(28,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(29,12): error C3646: 'apellido': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(29,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,12): error C3646: 'apellido': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C3646: 'DNI': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C3646: 'DNI': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,38): error C2061: error de sintaxis: identificador 'string'
@@ -247,421 +171,327 @@ C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entreg
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.h(19,37): error C2061: error de sintaxis: identificador 'string'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.h(29,18): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(43,20): error C2660: 'cEmpleado::recibir_cliente': la función no acepta 1 argumentos
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,10): message : vea la declaración de 'cEmpleado::recibir_cliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,10): message : vea la declaración de 'cEmpleado::recibir_cliente'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(43,20): message : al hacer coincidir la lista de argumentos '(cCliente *)'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(52,20): error C2660: 'cEmpleado::recibir_cliente': la función no acepta 1 argumentos
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,10): message : vea la declaración de 'cEmpleado::recibir_cliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,10): message : vea la declaración de 'cEmpleado::recibir_cliente'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(52,20): message : al hacer coincidir la lista de argumentos '(cCliente *)'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(62,20): error C2660: 'cEmpleado::recibir_cliente': la función no acepta 1 argumentos
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,10): message : vea la declaración de 'cEmpleado::recibir_cliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,10): message : vea la declaración de 'cEmpleado::recibir_cliente'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.cpp(62,20): message : al hacer coincidir la lista de argumentos '(cCliente *)'
   cGolosinas.cpp
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,12): error C3646: 'get_DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,19): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,21): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,12): error C3646: 'apellido': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C3646: 'DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,38): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(31,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,156): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,151): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,156): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,151): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(20): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(20,15): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(20,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(25,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(25,12): error C3646: 'fecha_venc': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(25,22): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(9,13): error C7550: "cGolosinas::{ctor}": el nombre completo en este contexto denomina un constructor, no un tipo.
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(9,24): error C2597: referencia no válida a miembro no static 'cProductos::string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,11): message : vea la declaración de 'cProductos::string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(9,31): error C2146: error de sintaxis: falta ')' delante del identificador 'fecha_venc'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(9,129): error C2143: error de sintaxis: falta ')' delante de ','
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(9,152): error C2059: error de sintaxis: ')'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(10,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(10,21): error C2065: 'fecha_venc': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(10,31): error C2059: error de sintaxis: ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(11,2): error C2059: error de sintaxis: 'this'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(12,1): error C2059: error de sintaxis: '}'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(12,1): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(14,27): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.cpp(14,27): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
   cLimpieza.cpp
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(14,37): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(17,34): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cLimpieza.cpp(17,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cLimpieza.cpp(18,11): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
   cMedicamentos.cpp
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,12): error C3646: 'get_DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,19): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,21): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,12): error C3646: 'apellido': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C3646: 'DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,38): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(31,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,156): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,151): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,156): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,151): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-  cMostrador.cpp
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.h(16): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.h(16,18): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.h(16,19): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.h(21,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.h(21,12): error C3646: 'fecha_venc': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.h(21,22): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.h(22,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.h(22,12): error C3646: 'marca': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.h(22,17): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(8,16): error C7550: "cMedicamentos::{ctor}": el nombre completo en este contexto denomina un constructor, no un tipo.
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(8,30): error C2597: referencia no válida a miembro no static 'cProductos::string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,11): message : vea la declaración de 'cProductos::string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(8,37): error C2146: error de sintaxis: falta ')' delante del identificador 'fecha_venc'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(8,144): error C2143: error de sintaxis: falta ')' delante de ','
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(8,167): error C2059: error de sintaxis: ')'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(9,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(9,21): error C2065: 'fecha_venc': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(9,31): error C2059: error de sintaxis: ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(10,2): error C2059: error de sintaxis: 'this'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(11,2): error C2059: error de sintaxis: 'this'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(12,1): error C2059: error de sintaxis: '}'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(12,1): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(14,33): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMedicamentos.cpp(14,33): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+  cMostrador.cpp
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(17,34): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.cpp(16,5): error C2065: 'cout': identificador no declarado
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.cpp(16,18): error C2065: 'endl': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.cpp(23,31): error C2661: 'cCliente::cCliente': ninguna función sobrecargada acepta 12 argumentos
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.cpp(23,31): message : al hacer coincidir la lista de argumentos '(const char [7], const char [8], const char [9], const char [15], const char [8], eOS, eFormadepago, const char [11], std::list<std::string,std::allocator<std::string>>, int, cCarrito *, eListaNecesidad)'
   cOrtopedista.cpp
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(14,37): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(17,34): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.cpp(14,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
   cPerfumeros.cpp
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(14,37): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,190): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,10): message : vea la declaración de 'cEmpleado'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(41,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(17,34): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,190): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,185): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): message : vea la declaración de 'cEmpleado'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cPerfumeros.cpp(15,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
   cProductos.cpp
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,12): error C3646: 'get_DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,19): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,21): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,12): error C3646: 'apellido': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C3646: 'DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,38): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(31,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,156): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,151): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,156): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,151): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(8,13): error C7550: "cProductos::{ctor}": el nombre completo en este contexto denomina un constructor, no un tipo.
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(8,24): error C2597: referencia no válida a miembro no static 'cProductos::string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,11): message : vea la declaración de 'cProductos::string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(8,31): error C2146: error de sintaxis: falta ')' delante del identificador 'ID'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(8,90): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(8,92): error C2059: error de sintaxis: '{'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(8,92): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(8,92): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(18,20): error C2039: "get_ID": no es un miembro de "cProductos"
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(11,7): message : vea la declaración de 'cProductos'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(18,26): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(18,26): error C2146: error de sintaxis: falta ';' delante del identificador 'get_ID'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(18,29): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(18,29): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(24,20): error C2039: "get_nombre": no es un miembro de "cProductos"
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(11,7): message : vea la declaración de 'cProductos'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(24,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(24,1): error C2086: 'int string': nueva definición
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(18,1): message : vea la declaración de 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(24,30): error C2146: error de sintaxis: falta ';' delante del identificador 'get_nombre'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(24,33): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(24,33): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.cpp(36,17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
   cProductos_Ortopedia.cpp
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,12): error C3646: 'get_DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,19): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,21): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,12): error C3646: 'apellido': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C3646: 'DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,38): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(31,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,156): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,151): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,156): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,151): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.h(18): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.h(18,25): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.h(18,26): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.h(24,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.h(24,12): error C3646: 'parte_delcuerpo': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.h(24,27): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(9,23): error C7550: "cProductos_Ortopedia::{ctor}": el nombre completo en este contexto denomina un constructor, no un tipo.
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(9,44): error C2597: referencia no válida a miembro no static 'cProductos::string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,11): message : vea la declaración de 'cProductos::string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(9,51): error C2146: error de sintaxis: falta ')' delante del identificador 'parte_delcuerpo'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(9,157): error C2143: error de sintaxis: falta ')' delante de ','
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(9,180): error C2059: error de sintaxis: ')'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(10,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(10,26): error C2065: 'parte_delcuerpo': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(10,41): error C2059: error de sintaxis: ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(11,2): error C2059: error de sintaxis: 'this'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(12,1): error C2059: error de sintaxis: '}'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(12,1): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(14,47): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Ortopedia.cpp(14,47): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
   cProductos_Perfumeria.cpp
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,12): error C3646: 'get_DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,19): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,21): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,12): error C3646: 'apellido': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C3646: 'DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(20,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(28,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,38): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(31,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(23,211): error C2061: error de sintaxis: identificador 'eListaNecesidad'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,21): error C3646: 'get_necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,34): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,36): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,21): error C3646: 'necesidad': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(61,30): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,156): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,151): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,156): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(23,151): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,11): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,11): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cProductos': identificador no declarado
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cProductos' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): message : vea la declaración de 'cProductos'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: "std::list": no hay suficientes argumentos de plantilla
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\list(756,1): message : vea la declaración de 'std::list'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(22): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(22,26): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(22,27): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(24,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(24,12): error C3646: 'get_PerfID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(24,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(43,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(43,12): error C3646: 'fecha_venc': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.h(43,22): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(9,24): error C7550: "cProductos_Perfumeria::{ctor}": el nombre completo en este contexto denomina un constructor, no un tipo.
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(9,46): error C2597: referencia no válida a miembro no static 'cProductos::string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,11): message : vea la declaración de 'cProductos::string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(9,53): error C2146: error de sintaxis: falta ')' delante del identificador 'fecha_venc'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(9,160): error C2143: error de sintaxis: falta ')' delante de ','
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(9,183): error C2059: error de sintaxis: ')'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(10,2): error C2355: 'this': solo se puede hacer referencia a this en funciones miembro no estáticas o inicializadores de miembro de datos no estáticos
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(10,21): error C2065: 'fecha_venc': identificador no declarado
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(10,31): error C2059: error de sintaxis: ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(11,2): error C2059: error de sintaxis: 'this'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(12,1): error C2059: error de sintaxis: '}'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(12,1): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(14,49): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos_Perfumeria.cpp(14,49): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
   Main.cpp
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,15): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,12): error C3646: 'get_DNI': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,19): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,21): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(24,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(18,15): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,12): error C3646: 'get_DNI': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,19): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(20,21): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(28,12): error C3646: 'nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(28,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(29,12): error C3646: 'apellido': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(29,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,12): error C3646: 'apellido': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(31,20): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(32,18): error C3646: 'DNI': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(30,18): error C3646: 'DNI': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.h(17,39): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(16,16): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,12): error C3646: 'get_ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,18): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(23,20): error C2238: símbolos (token) inesperados delante de ';'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,12): error C3646: 'get_nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,22): error C2059: error de sintaxis: '('
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(24,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(14,16): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,12): error C3646: 'get_ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,18): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(20,20): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,12): error C3646: 'get_nombre': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,22): error C2059: error de sintaxis: '('
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(21,24): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(29,18): error C3646: 'ID': especificador de invalidación desconocido
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,12): error C3646: 'nombre': especificador de invalidación desconocido
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(32,18): error C3646: 'ID': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,12): error C3646: 'nombre': especificador de invalidación desconocido
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cProductos.h(35,18): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(19,32): error C2061: error de sintaxis: identificador 'cCliente'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,12): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.h(20,38): error C2061: error de sintaxis: identificador 'string'
@@ -684,10 +514,10 @@ C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entreg
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.h(19,18): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.h(19,37): error C2061: error de sintaxis: identificador 'string'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.h(29,18): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(21): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(21,15): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(21,55): error C2061: error de sintaxis: identificador 'string'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(26,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(20): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(20,15): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(20,55): error C2061: error de sintaxis: identificador 'string'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cGolosinas.h(25,12): error C2327: 'cProductos::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.h(19): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.h(19,17): error C2327: 'cEmpleado::string': no es un nombre de tipo, elemento estático o enumerador
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.h(19,43): error C2061: error de sintaxis: identificador 'string'
@@ -728,8 +558,10 @@ C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entreg
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(37,52): message : al hacer coincidir la lista de argumentos '(const char [11], const char [7], int, const char [7], int, int, const char [11])'
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(38,72): error C2661: 'cProductos_Ortopedia::cProductos_Ortopedia': ninguna función sobrecargada acepta 6 argumentos
 C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(38,72): message : al hacer coincidir la lista de argumentos '(const char [5], eProdOrt, const char [7], int, int, const char [11])'
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(46,17): error C2450: una expresión switch de tipo "float" no es válida
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(46,17): message : Se requiere una expresión de integral
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(62,17): error C2450: una expresión switch de tipo "float" no es válida
-C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(63,5): fatal  error C1003: el recuento de errores supera 100; se detiene la compilación
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(141,22): error C2660: 'cEmpleado::recibir_cliente': la función no acepta 1 argumentos
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,10): message : vea la declaración de 'cEmpleado::recibir_cliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(141,22): message : al hacer coincidir la lista de argumentos '(cCliente *)'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(143,19): error C2660: 'cEmpleado::recibir_cliente': la función no acepta 1 argumentos
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(22,10): message : vea la declaración de 'cEmpleado::recibir_cliente'
+C:\Users\aula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\Main.cpp(143,19): message : al hacer coincidir la lista de argumentos '(cCliente *)'
   Generando código...

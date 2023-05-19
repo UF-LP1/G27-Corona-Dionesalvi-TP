@@ -13,7 +13,7 @@
 #include "cCajero.h"
 #include "cCarrito.h"
 #include "eOS.h"
-#include<string>
+#include <string>
 
 using namespace std;
 
