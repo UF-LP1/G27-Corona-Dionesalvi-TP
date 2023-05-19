@@ -11,8 +11,8 @@ cMostrador::cMostrador  (eDescuentos descuento, string nombre, string apellido, 
     this->descuento = descuento;
 }
 
-void cMostrador::ticket_saldopagar(cCliente *n) {
-    float a = trabajar(n);
+void cMostrador::ticket_saldopagar(cCliente *n, cCarrito *c) {
+    float a = trabajar(n, c);
     cout << a << endl;
     return;
 }

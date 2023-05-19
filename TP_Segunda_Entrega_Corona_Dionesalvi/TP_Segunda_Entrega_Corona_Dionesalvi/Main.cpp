@@ -47,25 +47,23 @@ int main()
 
     do
     {
-         cout << "Senior/a", cliente->get_nombre(), "Va a seguir comprando? Ingrese 1 para SI y 2 para NO  ";
-         cin >> opcion;
+        cout << "Estimada/o" << cliente->get_nombre() << "Si desea seguir comprando marque 1" << endl;
+        cout << "Si compro y quiere saber su saldo a pagar marque 2" << endl;
+        cout << "Si quiere abonar marque 3" << endl;
+        cin >> opcion;
          
-    }
-    while (opcion != 1 || opcion != 2);
+    } while (opcion != 1 || opcion != 2 || opcion != 3);
     
     switch (opcion)
     {
-    case 1:
-        farmacia_->derivar_cliente(cliente);
-        break;
-    case 2:
-        mostrador->recibir_cliente(cliente);
+        case 1:
+            farmacia_->derivar_cliente(cliente); //si quiere seguir comprando, se lo deriva respecto su necesidad
+            break;
+        case 2:
+            mostrador->recibir_cliente(cliente); //si no quiere comprar mas, se lo deriva al mostrador quien le dira su saldo a pagar
+        case 3:
+            cajero->recibir_cliente(cliente);//si quiere pagar, se lo deriva a cajero
     }
-
-
-
-
-
 
 
     delete(farmacia_);

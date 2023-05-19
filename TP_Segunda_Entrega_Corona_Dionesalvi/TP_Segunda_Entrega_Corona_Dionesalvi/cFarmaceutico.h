@@ -9,6 +9,7 @@
 
 
 #include "cEmpleado.h"
+#include "eMedicamentos.h"
 
 
 class cFarmaceutico : public cEmpleado {
@@ -19,11 +20,6 @@ public:
 
 
     void recomendacion_med();
-
-    /**
-     * @param cCliente info
-     */
-    void contactar_cliente(cCliente info);
 
     ~cFarmaceutico();
 protected:

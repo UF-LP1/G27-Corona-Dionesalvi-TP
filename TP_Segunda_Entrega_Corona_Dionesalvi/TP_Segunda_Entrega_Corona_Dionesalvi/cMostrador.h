@@ -16,7 +16,7 @@ public:
 
     cMostrador(eDescuentos descuento, string nombre, string apellido, string DNI);
 
-    void ticket_saldopagar(cCliente *n);
+    void ticket_saldopagar(cCliente *n, cCarrito* c);
 
     float trabajar( cCliente* a, cCarrito* c); //aplica dto   //cCliente *n,
 
