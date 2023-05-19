@@ -35,16 +35,16 @@ float cMostrador::trabajar() { //aplica el descuento o no, depende
     {
     case CEMIC:
             dto = 10;
-            monto_con_dto = monto_sin_dto * 0.1;
+            monto_con_dto = static_cast<float>(monto_sin_dto * 0.1);
     case SWISSMEDICAL:
             dto = 15;
-            monto_con_dto = monto_sin_dto * 0.15;
+            monto_con_dto = static_cast<float>(monto_sin_dto * 0.15);
     case GALENO:
             dto = 30;
-            monto_con_dto = monto_sin_dto * 0.3;
+            monto_con_dto = static_cast<float>(monto_sin_dto * 0.3);
     case OSDE:
             dto = 25;
-            monto_con_dto = monto_sin_dto * 0.25;
+            monto_con_dto = static_cast<float>(monto_sin_dto * 0.25);
         default: 
             monto_con_dto = monto_sin_dto;
                 break;

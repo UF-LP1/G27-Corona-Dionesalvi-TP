@@ -1,4 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
+
+#include<iostream>
 #include "cFarmacia.h"
 #include "cCarrito.h"
 #include "cProductos_Ortopedia.h"
@@ -12,6 +14,8 @@
 #include "cPerfumeros.h"
 #include "cProductos_Perfumeria.h"
 #include "cMedicamentos.h"
+#include <string>
+using namespace std;
 
 int main()
 { 
@@ -36,7 +40,86 @@ int main()
     lista_productosllevados.push_front(*productomuniequera);                  //Guardo mi producto en lista de productos llevados 
 
     float monto = cajero->trabajar();   //Llamamos a la funcion cobrar
-    printf("monto:%f", monto);//Imprimimos el monto total
+    cout << "monto:%f" << monto<< endl;//Imprimimos el monto total
+
+    float limpiar = limpieza->trabajar();
+    for(float n = 0; n < limpiar; limpiar++ ){
+            if (limpiar == 1)
+                cout << "Barriendo vereda" << endl;
+                break;
+            if (limpiar == 2)
+            cout << "Trapeando sector 1" << endl;
+                break;
+            if(limpiar == 3)
+            cout << "Aspirando deposito" << endl;
+                break;
+    }
+
+    float ort = ortopedista->trabajar();
+    for (float n = 0; n < ort; ort++) {
+        if (ort == 1)
+            cout << "Recomiendo cabestrillo" << endl;
+        break;
+        if (ort == 2)
+            cout << "Recomiendo muniequeras" << endl;
+        break;
+        if (ort == 3)
+            cout << "Recomiendo medias de compresion" << endl;
+        break;
+        if (ort == 4)
+            cout << "Recomiendo vendas" << endl;
+        break;
+    }
+
+
+    float perf = perfumeros->trabajar();
+    for (float n = 0; n < perf; perf++) {
+        if (perf == 1)
+            cout << "El mejor champu es Pantene" << endl;
+        break;
+        if (perf == 2)
+            cout << "Recomiendo el desodorante Dove" << endl;
+        break;
+        if (perf == 3)
+            cout << "Recomiendo el jabon Dove" << endl;
+        break;
+        if (perf == 4)
+            cout << "Recomiendo la crema corporal Dove" << endl;
+        break;
+        if (perf == 5)
+            cout << "Recomiendo la crema facial Dove" << endl;
+        break;
+        if (perf == 6)
+            cout << "Recomiendo el perfume Alma de Antonio Bandera" << endl;
+        break;
+        if (perf == 7)
+            cout << "Recomiendo la base Maybelline" << endl;
+        break;
+        if (perf == 8)
+            cout << "Llevate el esmalte bordo" << endl;
+        break;
+
+    }
+
+
+    float farm = farmaceutico->trabajar();
+    for (float n = 0; n < farm; farm++) {
+        if (farm == 1)
+            cout << "Para dolores de cabeza, recomiendo Ibuprofeno" << endl;
+        break;
+        if (farm == 2)
+            cout << "Para fuertes molestias menstruales, recomiendo Ibuevanol" << endl;
+        break;
+        if (farm == 3)
+            cout << "Si le esta costando conciliar el sueño, recomiendo Alplax" << endl;
+        break;
+        if (farm == 4)
+            cout << "Si ayer tomo mucho alcohol, hoy tome resaquit" << endl;
+        break;
+        if (farm == 5)
+            cout << "Si sufre mareos cuando viaja, consuma dramamine" << endl;
+        break;
+    }
 
     mostrador->ticket_saldopagar();
     int opcion = 0;

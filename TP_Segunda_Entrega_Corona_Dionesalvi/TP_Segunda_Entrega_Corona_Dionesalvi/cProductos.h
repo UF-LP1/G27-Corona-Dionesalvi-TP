@@ -11,10 +11,7 @@
 class cProductos {
 public:
 
-  
-
     cProductos(string ID, float precio, unsigned int stock, string nombre);
-
 
   
     float get_precio();
