@@ -10,19 +10,17 @@
 #include <ctime>
 #include <string>
 #include <iterator> 
+
 #include "eListaNecesidad.h"
 #include "cProductos.h"
 #include "cEmpleado.h"
-class cCliente;
 
 using namespace std;
-
 
 class cFarmacia {
 public:
 
     cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, eListaNecesidad eNecesidad_cliente, int turno, double fondos, list<cProductos> lista_productos, list<cEmpleado> lista_empleado);
-
 
     void set_horario(string nuevo_horario);
     void sumar_fondos(double fondo_actualizado);

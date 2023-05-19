@@ -6,13 +6,12 @@
 #define _CCAJERO_H
 
 #include"cFarmacia.h"
+#include "cMostrador.h"
 
 #include <iterator>
 #include  <iostream>
-class cMostrador;
 
 using namespace std;
-
 
 class cCajero : public cEmpleado {
 public:

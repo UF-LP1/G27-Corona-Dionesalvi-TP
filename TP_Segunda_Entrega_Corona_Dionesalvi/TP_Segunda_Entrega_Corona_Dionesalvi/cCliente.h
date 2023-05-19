@@ -6,11 +6,9 @@
 #ifndef _CCLIENTE_H
 #define _CCLIENTE_H
 
-
 #include "eFormadepago.h"
 #include "eOS.h"
 #include "cCarrito.h"
-
 
 using namespace std;
 
@@ -39,7 +37,6 @@ public:
 
     float get_billetera();
         
-
     ~cCliente();
 
    

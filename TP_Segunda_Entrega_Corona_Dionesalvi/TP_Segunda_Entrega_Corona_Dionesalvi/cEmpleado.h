@@ -6,7 +6,6 @@
 #ifndef _CEMPLEADO_H
 #define _CEMPLEADO_H
 
-
 #include "cCliente.h"
 
 class cEmpleado {
