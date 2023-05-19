@@ -9,11 +9,8 @@
 
 #include "eFormadepago.h"
 #include "eOS.h"
-#include "cMostrador.h"
-#include "cCajero.h"
 #include "cCarrito.h"
-#include "eOS.h"
-#include <string>
+
 
 using namespace std;
 

@@ -9,8 +9,6 @@
 
 #include "cCliente.h"
 
-
-
 class cEmpleado {
 public:
 
@@ -25,6 +23,7 @@ public:
     ~cEmpleado();
 
 protected:
+
     string nombre;
     string apellido;
     const string DNI;

@@ -6,12 +6,10 @@
 #ifndef _CPRODUCTOS_H
 #define _CPRODUCTOS_H
 
-#include <string>
-
 
 class cProductos {
 public:
-
+    
     cProductos(string ID, float precio, unsigned int stock, string nombre);
 
   
@@ -23,8 +21,6 @@ public:
     int get_stock();
 
     ~cProductos();
-protected:
-
 
 private:
     const string ID;

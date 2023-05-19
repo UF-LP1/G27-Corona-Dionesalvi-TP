@@ -8,12 +8,12 @@
 
 #include <list>
 #include <ctime>
-#include "iterator"
-#include "cCliente.h"
+#include <string>
+#include <iterator> 
 #include "eListaNecesidad.h"
 #include "cProductos.h"
 #include "cEmpleado.h"
-
+class cCliente;
 
 using namespace std;
 

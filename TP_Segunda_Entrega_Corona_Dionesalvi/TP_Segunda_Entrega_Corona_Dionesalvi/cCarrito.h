@@ -9,6 +9,7 @@
 #include "cProductos.h"
 #include<list>
 #include<string>
+
 class cCliente;
 class cFarmacia;
 using namespace std;

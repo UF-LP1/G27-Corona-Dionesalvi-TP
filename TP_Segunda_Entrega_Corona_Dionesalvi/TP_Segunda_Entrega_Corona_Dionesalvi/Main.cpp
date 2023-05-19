@@ -1,8 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 
-#include<iostream>
+//#include<iostream>
 #include "cFarmacia.h"
-#include "cCarrito.h"
+//#include "cCarrito.h"
 #include "cProductos_Ortopedia.h"
 #include "cCajero.h"
 #include "cMostrador.h"
@@ -14,7 +14,7 @@
 #include "cPerfumeros.h"
 #include "cProductos_Perfumeria.h"
 #include "cMedicamentos.h"
-#include <string>
+
 using namespace std;
 
 int main()

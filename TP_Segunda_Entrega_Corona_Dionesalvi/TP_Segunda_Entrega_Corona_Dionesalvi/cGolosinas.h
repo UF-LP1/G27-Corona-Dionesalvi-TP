@@ -9,8 +9,7 @@
 
 
 #include "cProductos.h"
-#include"eGol.h"
-
+#include "eGol.h"
 
 
 class cGolosinas : public cProductos {

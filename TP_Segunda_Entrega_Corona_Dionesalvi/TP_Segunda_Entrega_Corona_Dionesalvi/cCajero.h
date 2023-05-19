@@ -5,13 +5,12 @@
 #ifndef _CCAJERO_H
 #define _CCAJERO_H
 
-#include "cEmpleado.h"
 #include"cFarmacia.h"
-#include "cCliente.h"
-#include "cCarrito.h"
 
 #include <iterator>
 #include  <iostream>
+class cMostrador;
+
 using namespace std;
 
 
