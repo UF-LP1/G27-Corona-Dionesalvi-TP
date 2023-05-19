@@ -2,8 +2,6 @@
 
 
 
-
-
 cCarrito::cCarrito(int cant_productos, string tipo_carrito)
 {
     this->cant_productos = cant_productos;

@@ -19,7 +19,7 @@ public:
     cFarmaceutico(string matricula, string nombre, string apellido, string DNI);
 
 
-    void recomendacion_med();
+    float trabajar();
 
     ~cFarmaceutico();
 protected:

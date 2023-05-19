@@ -17,7 +17,7 @@ public:
    
     cOrtopedista(string parte_del_cuerpo, string nombre, string apellido, string DNI);
 
-    void trabajar();
+    float trabajar();
 
     ~cOrtopedista();
 

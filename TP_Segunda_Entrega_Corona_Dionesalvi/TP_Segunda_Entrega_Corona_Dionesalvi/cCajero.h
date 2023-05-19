@@ -20,7 +20,7 @@ public:
     cCajero(string contrasenia_caja, string nombre, string apellido, string DNI);
 
     void entregar_bolsa(cCarrito* c);
-    float trabajar(cCliente* n, cFarmacia* k, cMostrador*j); //COBRA
+    float trabajar(); //COBRA
 
     ~cCajero();
 

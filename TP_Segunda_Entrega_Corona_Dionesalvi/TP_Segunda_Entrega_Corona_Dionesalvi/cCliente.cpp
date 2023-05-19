@@ -54,10 +54,18 @@ cCarrito* cCliente::get_carro() {
     return this->carro;
 }
 
-cCliente::~cCliente() {
 
-}
 string cCliente::get_nombre()
 {
     return this->nombre;
+}
+
+float cCliente::get_billetera() {
+    return this->billetera;
+}
+
+
+
+cCliente::~cCliente() {
+
 }

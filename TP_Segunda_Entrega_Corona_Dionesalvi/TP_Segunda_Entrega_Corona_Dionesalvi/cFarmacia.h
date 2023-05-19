@@ -6,10 +6,8 @@
 #ifndef _CFARMACIA_H
 #define _CFARMACIA_H
 
-#include <vector>
 #include <list>
 #include <ctime>
-#include <iostream>
 #include "cCliente.h"
 #include "eListaNecesidad.h"
 #include "cProductos.h"
@@ -30,6 +28,7 @@ public:
     bool derivar_cliente(cCliente *n);
     list <cProductos> *get_lista_productos();
     ~cFarmacia();
+
 private:
     string nombre;
     string direccion;

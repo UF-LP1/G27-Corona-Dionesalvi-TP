@@ -22,11 +22,24 @@ void cCajero::entregar_bolsa(cCarrito* c) { //IMPRIME LISTA PRODUCTOS LLEVADOS
 }
 
 
-float cCajero::trabajar(cCliente* n, cFarmacia* k, cMostrador *j) { //FUNCION OBLIGATORIA
-    float monto_total = j->trabajar(n,c); //monto total es el valor que devuelve mi metodo aplicar dto 
+float cCajero::trabajar() { //FUNCION OBLIGATORIA
+   
+    list<cProductos> lista_productosllevados;
+    list <string> productos_requeridos;
+    list<cEmpleado> lista_empleado;
+    cCarrito* carrito = new cCarrito(2, "chico");
+    cFarmacia* farmacia_ = new cFarmacia("FARMALINK", "pueyrredon 5", "lunes a vienes de 8 a 21, sabados y domingos de 8 a 19", "j", ortopedia, 2, 52577, lista_productosllevados, lista_empleado);
+    cMostrador* mostrador = new cMostrador(C_10,);
+    cCliente* cliente = new cCliente("Manuel", "Morales", "44323456", "fedemorales@gmail.com", "impreso", OSDE, efectivo, "ibuprofeno", productos_requeridos, 232, carrito, farmacia);
+    float monto_total = mostrador->trabajar(); //monto total es el valor que devuelve mi metodo aplicar dto 
 
-    n->restar_saldo_billetera(monto_total);                 //le descontamos al cliente de su billetera lo que pago 
-    k->sumar_fondos(monto_total);                      // le sumamos lo que pago el cliente a los fondos de la farmacia 
+    if (monto_total <= cliente->get_billetera()) { //chequeo que tenga el dinero para pagar
+        cliente->restar_saldo_billetera(monto_total);                 //le descontamos al cliente de su billetera lo que pago 
+    }
+    else
+        cout << "No tiene saldo suficiente" << endl;
+
+    farmacia_ -> sumar_fondos(monto_total);                      // le sumamos lo que pago el cliente a los fondos de la farmacia 
 
     return monto_total;                 //retornamos el monto total por pedido de la consigna 
 }

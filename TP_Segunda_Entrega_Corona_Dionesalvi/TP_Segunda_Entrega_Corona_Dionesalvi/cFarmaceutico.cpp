@@ -8,7 +8,7 @@ cFarmaceutico::cFarmaceutico(string matricula, string nombre, string apellido, s
 }
 
 
-void cFarmaceutico::recomendacion_med() {
+float cFarmaceutico::trabajar() {
 
     srand(time(0));
     int i = 0 + rand() % (5) + 1;
@@ -37,7 +37,7 @@ void cFarmaceutico::recomendacion_med() {
         break;
     }
 
-    return;
+    return 0.0;
 }
 
 

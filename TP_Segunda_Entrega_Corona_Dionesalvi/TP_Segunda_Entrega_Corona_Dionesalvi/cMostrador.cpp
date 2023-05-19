@@ -11,18 +11,21 @@ cMostrador::cMostrador  (eDescuentos descuento, string nombre, string apellido, 
     this->descuento = descuento;
 }
 
-void cMostrador::ticket_saldopagar(cCliente *n, cCarrito *c) {
-    float a = trabajar(n, c);
+void cMostrador::ticket_saldopagar() {
+    float a = trabajar();
     cout << a << endl;
     return;
 }
 
-float cMostrador::trabajar(cCliente *a,cCarrito *c) { //aplica el descuento o no, depende 
-    
+float cMostrador::trabajar() { //aplica el descuento o no, depende 
+    list <string> productos_requeridos;
+    cCarrito* carrito = new cCarrito(4, "mediano");
+    cCliente* a = new cCliente("Manuel", "Salomon", "44323456", "manu@gmail.com", "impreso", OSDE, efectivo, "ibuprofeno", productos_requeridos, 232 , carrito , farmacia);
+   
     float dto = 0;
     float monto_con_dto = 0;
     float monto_sin_dto = 0;
-    list<cProductos> aux = c->get_lista_productosllevados();
+    list<cProductos> aux = a->get_carro()->get_lista_productosllevados();
     
     for (list<cProductos>::iterator it_ = aux.begin(); it_ != aux.end(); it_++) {  //bucle hasta el final de la lista 
         monto_sin_dto += it_->get_precio();
@@ -47,6 +50,8 @@ float cMostrador::trabajar(cCliente *a,cCarrito *c) { //aplica el descuento o no
                 break;
     }
 
+    delete carrito;
+    delete a;
     return monto_con_dto; 
 }
 

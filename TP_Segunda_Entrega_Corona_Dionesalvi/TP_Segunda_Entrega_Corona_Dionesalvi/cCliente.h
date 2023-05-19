@@ -40,10 +40,12 @@ public:
 
     string get_nombre();
 
-
-protected:
+    float get_billetera();
+        
 
     ~cCliente();
+
+   
 private:
     string nombre;
     string apellido;

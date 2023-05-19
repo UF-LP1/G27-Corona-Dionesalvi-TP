@@ -17,7 +17,7 @@ public:
   
     cLimpieza(string empresa_limpieza, eHorarios turnos, string nombre, string apellido, string DNI);
 
-    void trabajar();
+    float trabajar();
 
     ~cLimpieza();
 

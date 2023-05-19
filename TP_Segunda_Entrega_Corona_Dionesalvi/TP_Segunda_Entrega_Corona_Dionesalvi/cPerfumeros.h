@@ -17,7 +17,7 @@ public:
      */
     cPerfumeros(string credencial, string nombre, string apellido, string DNI);
 
-    void trabajar();
+    float trabajar();
 
     ~cPerfumeros();
 

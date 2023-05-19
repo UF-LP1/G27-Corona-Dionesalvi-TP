@@ -22,7 +22,7 @@ public:
     string get_DNI();
 
     void recibir_cliente(cCliente* n);
-    virtual void trabajar(); //método polimorfico, TODOS MIS EMPLEADOS TRABAJAN,PERO LAS REDEFINO PARA C/u
+    virtual float trabajar(); //método polimorfico, TODOS MIS EMPLEADOS TRABAJAN,PERO LAS REDEFINO PARA C/u
 
     ~cEmpleado();
 
