@@ -31,7 +31,7 @@ bool cProductos::consultar_stock(int cant_stock_necesario) {
 	else
 		return false;
 }
-void cProductos::actualizar_precio(int nuevo_precio)
+void cProductos::actualizar_precio(float nuevo_precio)
 {
 	this->precio = nuevo_precio;
 }

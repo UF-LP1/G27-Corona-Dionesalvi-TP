@@ -16,7 +16,7 @@ public:
 
     float get_precio();
     bool consultar_stock(int cant_stock_necesario);
-    void actualizar_precio(int nuevo_precio);
+    void actualizar_precio(float nuevo_precio);
     string get_ID();
     string get_nombre();
     int get_stock();

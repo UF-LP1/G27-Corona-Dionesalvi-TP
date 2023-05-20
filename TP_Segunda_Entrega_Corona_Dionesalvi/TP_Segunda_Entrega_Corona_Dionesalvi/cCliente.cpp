@@ -63,8 +63,6 @@ float cCliente::get_billetera() {
 }
 
 void agregar_producto_requerido(cProductos * p){
-    cCliente *p = 
-
 
 };
 
