@@ -9,16 +9,14 @@
 #include "cFarmaceutico.h"
 
 
-cFarmacia::cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, eListaNecesidad eNecesidad_cliente, int turno, double fondos, list<cProductos> lista_productos, list<cEmpleado> lista_empleado) {
+cFarmacia::cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, double fondos, list<cProductos> lista_productos, list<cEmpleado> lista_empleados) {
     this->nombre = nombre;
     this->direccion = direccion;
     this->horario = horario;
     this->ticket_recepcion = ticket_recepcion;
-    this->eNecesidad_cliente = eNecesidad_cliente;
-    this->turno = turno;
     this->fondos = fondos;
     this->lista_productos = &lista_productos;
-    this->lista_empleado = lista_empleado;
+    this->lista_empleados = lista_empleados;
 
 }
 
@@ -35,7 +33,7 @@ bool cFarmacia::derivar_cliente(cCliente *n) {
     {
     case ortopedia:
      
-        for (list<cEmpleado>::iterator it_ = lista_empleado.begin(); it_ !=lista_empleado.end(); it_++) {  //bucle hasta el final de la lista 
+        for (list<cEmpleado>::iterator it_ = lista_empleados.begin(); it_ !=lista_empleados.end(); it_++) {  //bucle hasta el final de la lista 
             cEmpleado* aux = nullptr;
             cEmpleado* aux2 = &( * it_); //accedo a un elemento tipo cEmpleado, y con el & accedo a la direc de memoria
             aux=dynamic_cast<cOrtopedista*>(aux2);
@@ -44,7 +42,7 @@ bool cFarmacia::derivar_cliente(cCliente *n) {
             }
         }
     case perfumeria:
-        for (list<cEmpleado>::iterator it_ = lista_empleado.begin(); it_ != lista_empleado.end(); it_++) {  //bucle hasta el final de la lista 
+        for (list<cEmpleado>::iterator it_ = lista_empleados.begin(); it_ != lista_empleados.end(); it_++) {  //bucle hasta el final de la lista 
             cEmpleado* aux = nullptr;
             cEmpleado* aux2 = &(*it_);
             aux = dynamic_cast<cPerfumeros*>(aux2);
@@ -54,7 +52,7 @@ bool cFarmacia::derivar_cliente(cCliente *n) {
         }
 
     case farmacia:
-        for (list<cEmpleado>::iterator it_ = lista_empleado.begin(); it_ != lista_empleado.end(); it_++) {  //bucle hasta el final de la lista 
+        for (list<cEmpleado>::iterator it_ = lista_empleados.begin(); it_ != lista_empleados.end(); it_++) {  //bucle hasta el final de la lista 
             cEmpleado* aux = nullptr;
             cEmpleado* aux2 = &(*it_);
             aux = dynamic_cast<cFarmaceutico*>(aux2);

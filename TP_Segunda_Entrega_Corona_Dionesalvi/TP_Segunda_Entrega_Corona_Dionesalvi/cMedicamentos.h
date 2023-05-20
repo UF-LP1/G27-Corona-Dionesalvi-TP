@@ -17,11 +17,10 @@ public:
 
     ~cMedicamentos();
 
-protected:
+private:
     string fecha_venc;
     string marca;
     unsigned int cant_dosis;
-
 
 };
 

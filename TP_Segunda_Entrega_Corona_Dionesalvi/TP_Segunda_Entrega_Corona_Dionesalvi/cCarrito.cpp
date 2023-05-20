@@ -2,10 +2,11 @@
 
 
 
-cCarrito::cCarrito(int cant_productos, string tipo_carrito)
+cCarrito::cCarrito(int cant_productos, string tipo_carrito, list <cProductos> lista_productosllevados)
 {
     this->cant_productos = cant_productos;
     this->tipo_de_carrito = tipo_carrito;
+    this->lista_productosllevados = lista_productosllevados;
 
 }
 

@@ -140,7 +140,7 @@ int main()
         case 2:
             mostrador->recibir_cliente(cliente); //si no quiere comprar mas, se lo deriva al mostrador quien le dira su saldo a pagar
         case 3:
-            cajero->recibir_cliente(cliente);//si quiere pagar, se lo deriva a cajero
+            cajero->recibir_cliente(cliente); //si quiere pagar, se lo deriva a cajero
     }
 
 

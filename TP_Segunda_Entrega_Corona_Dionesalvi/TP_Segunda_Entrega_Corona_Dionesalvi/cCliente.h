@@ -36,6 +36,10 @@ public:
     string get_nombre();
 
     float get_billetera();
+
+    void agregar_producto_requerido(cProductos *p);
+
+    void eliminar_producto_requerido();
         
     ~cCliente();
 

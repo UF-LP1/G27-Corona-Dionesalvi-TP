@@ -14,7 +14,7 @@ using namespace std;
 
 class cCarrito {
 public:
-    cCarrito(int cant_productos, string tipo_carrito);
+    cCarrito(int cant_productos, string tipo_carrito, list <cProductos> lista_productosllevados);
 
     
     void seleccionar_productos(cCliente* c, cFarmacia* p);

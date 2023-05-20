@@ -20,12 +20,10 @@ public:
 
     ~cGolosinas();  
 
-protected:
+private:
     string fecha_venc;
     eGol tipo_golosina;
 
-private:
-    eGol golosinas;
 };
 
 #endif //_CGOLOSINAS_H

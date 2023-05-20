@@ -20,7 +20,7 @@ using namespace std;
 class cFarmacia {
 public:
 
-    cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, eListaNecesidad eNecesidad_cliente, int turno, double fondos, list<cProductos> lista_productos, list<cEmpleado> lista_empleado);
+    cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, double fondos, list<cProductos> lista_productos, list<cEmpleado> lista_empleados);
 
     void set_horario(string nuevo_horario);
     void sumar_fondos(double fondo_actualizado);
@@ -33,11 +33,10 @@ private:
     string direccion;
     string horario;
     string ticket_recepcion;
-    int turno;
     double fondos;
     list<cProductos> *lista_productos;
-    list<cEmpleado> lista_empleado; 
-    eListaNecesidad eNecesidad_cliente;
+    list<cEmpleado> lista_empleados; 
+    
 };
 
 #endif //_CFARMACIA_H

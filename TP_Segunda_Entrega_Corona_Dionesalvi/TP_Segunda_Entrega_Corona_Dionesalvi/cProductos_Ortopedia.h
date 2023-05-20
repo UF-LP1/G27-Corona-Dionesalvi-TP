@@ -20,13 +20,10 @@ public:
 
     ~cProductos_Ortopedia();
 
-protected:
+private:
     string parte_delcuerpo;
     eProdOrt tipo_producto;
 
-
-private:
-    eProdOrt prod_ort;
 };
 
 #endif //_CPRODUCTOS_ORTOPEDIA_H

@@ -23,7 +23,7 @@ public:
 
     ~cProductos();
 
-private:
+protected:
     const string ID;
     float precio;
     unsigned int stock;

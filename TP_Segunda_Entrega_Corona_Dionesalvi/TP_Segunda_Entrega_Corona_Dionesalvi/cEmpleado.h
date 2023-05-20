@@ -15,7 +15,6 @@ public:
     cEmpleado(string nombre, string apellido, string DNI);
 
     string get_DNI();
-
     void recibir_cliente(cCliente* n);
     virtual float trabajar(); //método polimorfico, TODOS MIS EMPLEADOS TRABAJAN,PERO LAS REDEFINO PARA C/u
 
