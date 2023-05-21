@@ -23,8 +23,8 @@ int main()
     list <string> productos_requeridos;
     list<cEmpleado> lista_empleado; 
 
-    cFarmacia* farmacia_ = new cFarmacia("FARMALINK", "pueyrredon 5", "lunes a vienes de 8 a 21, sabados y domingos de 8 a 19", "j", ortopedia, 2, 52577, lista_productosllevados,lista_empleado ); 
-    cCarrito* carrito = new cCarrito(2,"chico");
+    cFarmacia* farmacia_ = new cFarmacia("FARMALINK", "pueyrredon 5", "lunes a vienes de 8 a 21, sabados y domingos de 8 a 19","j",20334000,lista_productosllevados,lista_empleado);
+    cCarrito* carrito = new cCarrito(2,"chico",lista_productosllevados);
     cCliente* cliente = new cCliente("Manuel", "Morales", "44323456", "fedemorales@gmail.com", "impreso", OSDE, efectivo, "ibuprofeno", productos_requeridos, 232 , carrito ,farmacia);
     cCajero* cajero = new cCajero("7821","Juan","Bianco","22456876");
     cMostrador* mostrador = new cMostrador(C_10,"Lucila","Ferrero","34876543");

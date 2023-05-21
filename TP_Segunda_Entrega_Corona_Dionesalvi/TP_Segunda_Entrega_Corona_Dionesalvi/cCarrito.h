@@ -6,7 +6,7 @@
 #ifndef _CCARRITO_H
 #define _CCARRITO_H
 
-#include "cFarmacia.h"
+//#include "cFarmacia.h"
 #include<list>
 #include<string>
 

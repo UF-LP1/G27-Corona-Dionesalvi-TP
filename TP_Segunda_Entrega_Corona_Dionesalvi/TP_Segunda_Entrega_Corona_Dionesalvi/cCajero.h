@@ -5,8 +5,9 @@
 #ifndef _CCAJERO_H
 #define _CCAJERO_H
 
-#include"cFarmacia.h"
+#include"cFarmacia.h" //
 #include "cMostrador.h"
+//#include "cEmpleado.h"
 
 #include <iterator>
 #include  <iostream>
