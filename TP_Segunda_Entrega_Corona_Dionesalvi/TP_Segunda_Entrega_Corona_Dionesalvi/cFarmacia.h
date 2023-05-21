@@ -10,10 +10,12 @@
 #include <ctime>
 #include <string>
 #include <iterator> 
-
 #include "eListaNecesidad.h"
 #include "cProductos.h"
 #include "cEmpleado.h"
+#include "cOrtopedista.h"
+#include "cPerfumeros.h"
+#include "cFarmaceutico.h"
 
 using namespace std;
 

@@ -37,9 +37,9 @@ public:
 
     float get_billetera();
 
-    void agregar_producto_requerido(cProductos *p);
+    void agregar_producto_requerido(string* p);
 
-    void eliminar_producto_requerido();
+    void eliminar_producto_requerido(string* p);
         
     ~cCliente();
 

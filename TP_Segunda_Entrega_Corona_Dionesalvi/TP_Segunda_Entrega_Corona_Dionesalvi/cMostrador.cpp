@@ -4,7 +4,6 @@
 
 
 #include "cMostrador.h"
-#include "cCarrito.h"
 
 
 cMostrador::cMostrador  (eDescuentos descuento, string nombre, string apellido, string DNI) :cEmpleado(nombre, apellido, DNI) {

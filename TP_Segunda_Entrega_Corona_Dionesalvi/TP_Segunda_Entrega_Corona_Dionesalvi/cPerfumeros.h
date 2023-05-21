@@ -12,17 +12,12 @@
 class cPerfumeros : public cEmpleado {
 public:
 
-    /**
-     * @param string credencial
-     */
+   
     cPerfumeros(string credencial, string nombre, string apellido, string DNI);
 
     float trabajar();
 
     ~cPerfumeros();
-
-protected:
-
 
 private:
     const string credencial;

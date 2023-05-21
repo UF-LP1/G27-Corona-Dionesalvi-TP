@@ -22,9 +22,6 @@ public:
 
     ~cMostrador();
 
-protected:
-
-
 private:
     eDescuentos descuento;
 };

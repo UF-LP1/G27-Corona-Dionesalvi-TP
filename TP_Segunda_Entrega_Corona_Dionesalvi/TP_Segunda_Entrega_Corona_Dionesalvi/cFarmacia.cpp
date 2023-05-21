@@ -1,12 +1,8 @@
-/**
- * Project Untitled
- */
 
-#include "eListaNecesidad.h"
+
+
 #include "cFarmacia.h"
-#include "cOrtopedista.h"
-#include "cPerfumeros.h"
-#include "cFarmaceutico.h"
+
 
 
 cFarmacia::cFarmacia(string nombre, string direccion, string horario, string ticket_recepcion, double fondos, list<cProductos> lista_productos, list<cEmpleado> lista_empleados) {

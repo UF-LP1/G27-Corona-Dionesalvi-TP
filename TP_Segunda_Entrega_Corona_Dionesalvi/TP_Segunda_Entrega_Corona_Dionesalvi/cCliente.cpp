@@ -62,14 +62,15 @@ float cCliente::get_billetera() {
     return this->billetera;
 }
 
-void agregar_producto_requerido(cProductos * p){
+void cCliente::agregar_producto_requerido(string* p)
+{
+   productos_requeridos.push_back(*p);
+}
 
-};
-
-void eliminar_producto_requerido(){
-
-};
-
+void cCliente::eliminar_producto_requerido(string* p)
+{
+    productos_requeridos.remove(*p);
+}
 
 
 
