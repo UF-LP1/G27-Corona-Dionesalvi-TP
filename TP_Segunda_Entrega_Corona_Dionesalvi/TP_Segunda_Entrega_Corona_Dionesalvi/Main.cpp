@@ -12,6 +12,7 @@
 #include "cGolosinas.h"
 #include "cOrtopedista.h"
 #include "cPerfumeros.h"
+//#include "cCajero.h"
 #include "cProductos_Perfumeria.h"
 #include "cMedicamentos.h"
 

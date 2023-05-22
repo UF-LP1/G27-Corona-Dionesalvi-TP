@@ -9,6 +9,7 @@
 #include "eFormadepago.h"
 #include "eOS.h"
 #include "cCarrito.h"
+#include "eListaNecesidad.h"
 
 using namespace std;
 
