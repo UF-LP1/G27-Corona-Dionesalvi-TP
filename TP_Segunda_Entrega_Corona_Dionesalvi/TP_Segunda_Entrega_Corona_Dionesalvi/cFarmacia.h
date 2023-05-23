@@ -7,7 +7,6 @@
 #define _CFARMACIA_H
 
 #include <list>
-#include <ctime>
 #include <string>
 #include <iterator> 
 #include "eListaNecesidad.h"

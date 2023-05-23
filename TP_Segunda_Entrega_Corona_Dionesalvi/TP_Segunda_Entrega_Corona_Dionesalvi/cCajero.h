@@ -24,8 +24,6 @@ public:
 
     ~cCajero();
 
-protected:
-
   
 private:
     string contrasenia_caja;

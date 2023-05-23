@@ -27,8 +27,8 @@ float cCajero::trabajar() { //FUNCION OBLIGATORIA
     list<cProductos> lista_productosllevados;
     list <string> productos_requeridos;
     list<cEmpleado> lista_empleado;
-    cCarrito* carrito = new cCarrito(2, "chico");
-    cFarmacia* farmacia_ = new cFarmacia("FARMALINK", "pueyrredon 5", "lunes a vienes de 8 a 21, sabados y domingos de 8 a 19", "j", ortopedia, 2, 52577, lista_productosllevados, lista_empleado);
+    cCarrito* carrito = new cCarrito(2, "chico", lista_productosllevados);
+    cFarmacia* farmacia_ = new cFarmacia("FARMALINK", "pueyrredon 5", "lunes a vienes de 8 a 21, sabados y domingos de 8 a 19", "j", 20334000, lista_productosllevados, lista_empleado);
     cMostrador* mostrador = new cMostrador(C_10, "Lula", "DeLuca","34875443");
     cCliente* cliente = new cCliente("Manuel", "Morales", "44323456", "fedemorales@gmail.com", "impreso", OSDE, efectivo, "ibuprofeno", productos_requeridos, 232, carrito, farmacia);
     float monto_total = mostrador->trabajar(); //monto total es el valor que devuelve mi metodo aplicar dto 

@@ -1,7 +1,5 @@
 ﻿  cCajero.cpp
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(21,32): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(30,49): error C2661: 'cCarrito::cCarrito': ninguna función sobrecargada acepta 2 argumentos
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCajero.cpp(31,195): error C2661: 'cFarmacia::cFarmacia': ninguna función sobrecargada acepta 9 argumentos
   cCarrito.cpp
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(19,194): error C2061: error de sintaxis: identificador 'cCarrito'
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(35,13): error C2143: error de sintaxis: falta ';' delante de '*'
@@ -12,40 +10,40 @@ C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entre
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCliente.h(59,20): error C2238: símbolos (token) inesperados delante de ';'
   cCliente.cpp
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cEmpleado.h(18,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(28,26): error C2061: error de sintaxis: identificador 'cCliente'
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(21,32): error C2061: error de sintaxis: identificador 'cCliente'
   cEmpleado.cpp
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.h(15,39): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cPerfumeros.h(12,38): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.h(12,40): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,143): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,143): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(28,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(21,32): error C2061: error de sintaxis: identificador 'cCliente'
   cFarmaceutico.cpp
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.h(15,39): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cPerfumeros.h(12,38): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,143): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,143): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(28,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(21,32): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.cpp(13,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.cpp(13,11): error C3861: 'time': no se encontró el identificador
   cFarmacia.cpp
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(21,32): error C2061: error de sintaxis: identificador 'cCliente'
   cGolosinas.cpp
@@ -53,34 +51,34 @@ C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entre
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.h(15,39): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cPerfumeros.h(12,38): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.h(12,40): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,143): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,143): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(28,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(21,32): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cLimpieza.cpp(17,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cLimpieza.cpp(17,11): error C3861: 'time': no se encontró el identificador
   cMedicamentos.cpp
   cMostrador.cpp
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.h(15,39): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cPerfumeros.h(12,38): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.h(12,40): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,143): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,143): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(28,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(21,32): error C2061: error de sintaxis: identificador 'cCliente'
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cMostrador.cpp(15,5): error C2065: 'cout': identificador no declarado
@@ -89,35 +87,35 @@ C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entre
   cOrtopedista.cpp
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cPerfumeros.h(12,38): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.h(12,40): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,143): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,143): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(28,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(21,32): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.cpp(14,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.cpp(14,11): error C3861: 'time': no se encontró el identificador
   cPerfumeros.cpp
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cOrtopedista.h(15,39): error C2504: 'cEmpleado': clase base sin definir
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmaceutico.h(12,40): error C2504: 'cEmpleado': clase base sin definir
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,143): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(25,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,143): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(24,138): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(29,26): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,10): error C2065: 'cEmpleado': identificador no declarado
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40): message : vea la declaración de 'cEmpleado'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(40,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(28,26): error C2061: error de sintaxis: identificador 'cCliente'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,10): error C2065: 'cEmpleado': identificador no declarado
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2923: 'std::list': 'cEmpleado' no es un argumento de tipo plantilla válido para el parámetro '_Ty'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39): message : vea la declaración de 'cEmpleado'
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cFarmacia.h(39,5): error C2976: 'std::list': no hay suficientes argumentos de plantilla
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\list(754): message : vea la declaración de 'std::list'
 C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cCarrito.h(21,32): error C2061: error de sintaxis: identificador 'cCliente'
-C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cPerfumeros.cpp(15,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\paula\Desktop\tp3\TP_Segunda_Entrega_Corona_Dionesalvi\TP_Segunda_Entrega_Corona_Dionesalvi\cPerfumeros.cpp(15,11): error C3861: 'time': no se encontró el identificador
   cProductos.cpp
   cProductos_Ortopedia.cpp
   cProductos_Perfumeria.cpp
